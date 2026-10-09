@@ -1,0 +1,33 @@
+en:
+  page_title: Stage
+  page_icon: ph:bold/flow-arrow
+  intro: >-
+    symfony-stage: a surface the pointer moves and elements laid on it — picked,
+    dragged onto a grid, linked, removed, every change undone and done again.
+    The stage draws the elements the page hands it and knows nothing of what
+    they mean: each one here is a card of the design system.
+  section:
+    timeline:
+      title: A timeline
+      description: >-
+        The surface moves along its line only (axis x), as a process reads. Drag
+        the surface to move it, a card to move it; Shift and drag picks several;
+        the arrows move the picked ones, Delete removes them, Ctrl+Z undoes and
+        Ctrl+Shift+Z does again.
+
+fr:
+  page_title: Scène
+  page_icon: ph:bold/flow-arrow
+  intro: >-
+    symfony-stage : une surface que le pointeur déplace et des éléments posés
+    dessus — choisis, glissés sur une grille, reliés, retirés, chaque changement
+    annulé et refait. La scène dessine les éléments que la page lui donne et
+    ignore ce qu'ils signifient : chacun ici est une carte du design system.
+  section:
+    timeline:
+      title: Une frise
+      description: >-
+        La surface ne se déplace que sur sa ligne (axe x), comme se lit un
+        processus. Glisser la surface la déplace, glisser une carte la déplace ;
+        Maj et glisser en choisit plusieurs ; les flèches déplacent les éléments
+        choisis, Suppr les retire, Ctrl+Z annule et Ctrl+Maj+Z refait.

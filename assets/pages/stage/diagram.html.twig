@@ -1,0 +1,27 @@
+{%- extends '@front/layouts/private/layout.html.twig' -%}
+
+{%- set page_show_title = true -%}
+
+{%- block page_body -%}
+    <p class="lead">{{ '@page::intro' | trans }}</p>
+    {%- set elements = [
+        { id: 'api', title: 'API', kind: 'task', x: 40, y: 40, width: 160, height: 80 },
+        { id: 'queue', title: 'Queue', kind: 'gateway', x: 320, y: 40, width: 160, height: 80 },
+        { id: 'worker', title: 'Worker', kind: 'task', x: 600, y: 40, width: 160, height: 80 },
+        { id: 'db', title: 'Database', kind: 'event', x: 600, y: 240, width: 160, height: 80 },
+        { id: 'mail', title: 'Mailer', kind: 'task', x: 880, y: 40, width: 160, height: 80 },
+        { id: 'cache', title: 'Cache', kind: 'event', x: 320, y: 240, width: 160, height: 80 },
+    ] -%}
+    {%- set links = [
+        { id: 'l1', from: 'api', to: 'queue' },
+        { id: 'l2', from: 'queue', to: 'worker' },
+        { id: 'l3', from: 'worker', to: 'db' },
+        { id: 'l4', from: 'worker', to: 'mail' },
+        { id: 'l5', from: 'api', to: 'cache' },
+    ] -%}
+    {{ vue(render_pass, '@WexampleSymfonyStageDemoBundle/components/demo-stage', {
+        axis: 'both',
+        initialElements: elements,
+        initialLinks: links,
+    }) }}
+{%- endblock -%}

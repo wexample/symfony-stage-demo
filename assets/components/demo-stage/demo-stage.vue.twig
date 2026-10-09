@@ -1,0 +1,42 @@
+{%- extends '@WexampleSymfonyDesignSystemBundle/components/_abstract/vue/vue.vue.twig' -%}
+
+{%- block vue_require -%}
+    {{- vue_require(render_pass, '@WexampleSymfonyStageBundle/components/stage') -}}
+{%- endblock -%}
+
+{%- block vue_body -%}
+    <div class="block block--card demo-stage">
+        <div class="toolbar toolbar--shaded toolbar--compact demo-stage--toolbar">
+            <div class="toolbar--group">
+                <button type="button" class="toolbar--action" aria-label="Add a step" data-tooltip="Add a step" @click="add" v-html="renderIcon('ph:bold/plus')"></button>
+                <button type="button" class="toolbar--action" aria-label="Remove the picked ones" data-tooltip="Remove the picked ones" :disabled="!selection.length" @click="remove" v-html="renderIcon('ph:bold/trash')"></button>
+            </div>
+            <div class="toolbar--group">
+                <button type="button" class="toolbar--action" aria-label="Undo" data-tooltip="Undo" :disabled="!canUndo" @click="undo" v-html="renderIcon('ph:bold/arrow-counter-clockwise')"></button>
+                <button type="button" class="toolbar--action" aria-label="Redo" data-tooltip="Redo" :disabled="!canRedo" @click="redo" v-html="renderIcon('ph:bold/arrow-clockwise')"></button>
+                <button type="button" class="toolbar--action" aria-label="Back to the start" data-tooltip="Back to the start" @click="fit" v-html="renderIcon('ph:bold/arrows-in-simple')"></button>
+            </div>
+        </div>
+
+        <div class="demo-stage--surface">
+            <stage
+                    ref="stage"
+                    :axis="axis"
+                    :elements="elements"
+                    :links="links"
+                    @update:elements="onElements"
+                    @update:links="(value) => links = value"
+                    @update:selection="(value) => selection = value"
+            >
+                <template #element="{ element, selected }">
+                    <div class="block block--card demo-stage--card" :class="'demo-stage--card--' + (element.kind || 'task')">
+                        <div class="block--title">[[ element.title ]]</div>
+                        <div class="block--body">[[ element.kind || 'task' ]]</div>
+                    </div>
+                </template>
+            </stage>
+        </div>
+
+        <div class="status-bar" aria-live="polite">[[ status ]]</div>
+    </div>
+{%- endblock -%}

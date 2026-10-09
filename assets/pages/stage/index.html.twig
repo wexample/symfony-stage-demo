@@ -1,0 +1,37 @@
+{%- extends '@front/layouts/private/layout.html.twig' -%}
+
+{%- set page_show_title = true -%}
+
+{%- block page_body -%}
+    <p class="lead">{{ '@page::intro' | trans }}</p>
+
+    <h2>{{ '@page::section.timeline.title' | trans }}</h2>
+    <div class="lead">{{ '@page::section.timeline.description' | trans }}</div>
+    {%- set steps = [
+        { id: 'start', title: 'Order received', kind: 'event' },
+        { id: 'check', title: 'Check the stock', kind: 'task' },
+        { id: 'enough', title: 'Enough stock?', kind: 'gateway' },
+        { id: 'ship', title: 'Ship', kind: 'task' },
+        { id: 'invoice', title: 'Send the invoice', kind: 'task' },
+        { id: 'end', title: 'Order closed', kind: 'event' },
+    ] -%}
+    {%- set elements = [] -%}
+    {%- for step in steps -%}
+        {%- set elements = elements|merge([step|merge({ x: 40 + loop.index0 * 240, y: 60, width: 160, height: 80 })]) -%}
+    {%- endfor -%}
+    {%- set elements = elements|merge([{ id: 'order', title: 'Order the missing', kind: 'task', x: 760, y: 200, width: 160, height: 80 }]) -%}
+    {%- set links = [
+        { id: 'l1', from: 'start', to: 'check' },
+        { id: 'l2', from: 'check', to: 'enough' },
+        { id: 'l3', from: 'enough', to: 'ship' },
+        { id: 'l4', from: 'ship', to: 'invoice' },
+        { id: 'l5', from: 'invoice', to: 'end' },
+        { id: 'l6', from: 'enough', to: 'order' },
+        { id: 'l7', from: 'order', to: 'ship' },
+    ] -%}
+    {{ vue(render_pass, '@WexampleSymfonyStageDemoBundle/components/demo-stage', {
+        axis: 'x',
+        initialElements: elements,
+        initialLinks: links,
+    }) }}
+{%- endblock -%}
