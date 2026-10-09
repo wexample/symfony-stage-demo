@@ -6,7 +6,7 @@
 {%- macro box(label, classes = '', mark = 'ph:bold/user') -%}
     <div class="stage-shapes-demo--cell stage-shapes-demo--cell--box">
         <div class="block stage-shape stage-shape--box {{ classes }}">
-            {%- if mark %}<span class="stage-shape--mark" aria-hidden="true">{{ icon(mark) }}</span>{% endif -%}
+            {%- if mark %}<span class="block--mark" aria-hidden="true">{{ icon(mark) }}</span>{% endif -%}
             <span class="stage-shape--label">{{ label }}</span>
         </div>
     </div>

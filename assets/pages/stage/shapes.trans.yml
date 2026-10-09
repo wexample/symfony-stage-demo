@@ -11,7 +11,7 @@ en:
       title: The box
       description: >-
         A block of the design system with its edge drawn: what it is in its
-        corner (stage-shape--mark), its words in the middle, three lines at
+        corner (block--mark), its words in the middle, three lines at
         most. Heavier (stage-shape--thick) for one that holds more than itself.
     circle:
       title: The circle
@@ -39,7 +39,7 @@ fr:
       title: La boîte
       description: >-
         Un bloc du design system au bord tracé : ce qu'il est dans son coin
-        (stage-shape--mark), ses mots au milieu, trois lignes au plus. Plus
+        (block--mark), ses mots au milieu, trois lignes au plus. Plus
         épais (stage-shape--thick) pour celui qui contient plus que lui-même.
     circle:
       title: Le cercle
