@@ -1,0 +1,55 @@
+en:
+  page_title: Shapes
+  page_icon: ph:bold/shapes
+  intro: >-
+    The figures a diagram on the stage is drawn with (stage-shape): what they
+    mean is the page's — a process, a workflow, a plan —, how they look is said
+    once, on the tokens of the design system. Each one fills the element the
+    stage gives it.
+  section:
+    box:
+      title: The box
+      description: >-
+        A block of the design system with its edge drawn: what it is in its
+        corner (stage-shape--mark), its words in the middle, three lines at
+        most. Heavier (stage-shape--thick) for one that holds more than itself.
+    circle:
+      title: The circle
+      description: >-
+        Where something starts, waits or ends: a glyph in it, its words under
+        it. Its edge heavier (stage-shape--thick) or doubled
+        (stage-shape--double), in a tone (stage-shape--tone-success, -warning,
+        -error, -info).
+    diamond:
+      title: The diamond
+      description: >-
+        Where the way forks: the square turned, its glyph upright, its words
+        under it; the same edges and tones as the circle.
+
+fr:
+  page_title: Formes
+  page_icon: ph:bold/shapes
+  intro: >-
+    Les figures avec lesquelles se dessine un schéma sur la scène
+    (stage-shape) : ce qu'elles signifient appartient à la page — un processus,
+    un workflow, un plan —, leur apparence est dite une fois, sur les tokens du
+    design system. Chacune remplit l'élément que la scène lui donne.
+  section:
+    box:
+      title: La boîte
+      description: >-
+        Un bloc du design system au bord tracé : ce qu'il est dans son coin
+        (stage-shape--mark), ses mots au milieu, trois lignes au plus. Plus
+        épais (stage-shape--thick) pour celui qui contient plus que lui-même.
+    circle:
+      title: Le cercle
+      description: >-
+        Là où quelque chose commence, attend ou finit : un glyphe dedans, ses
+        mots dessous. Son bord plus épais (stage-shape--thick) ou doublé
+        (stage-shape--double), dans une teinte (stage-shape--tone-success,
+        -warning, -error, -info).
+    diamond:
+      title: Le losange
+      description: >-
+        Là où le chemin se divise : le carré tourné, son glyphe droit, ses mots
+        dessous ; les mêmes bords et teintes que le cercle.

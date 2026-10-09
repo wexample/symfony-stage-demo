@@ -1,0 +1,60 @@
+{%- extends '@front/layouts/private/layout.html.twig' -%}
+
+{%- set page_show_title = true -%}
+
+{#- One figure, in a cell of the size an element of the stage would give it. -#}
+{%- macro box(label, classes = '', mark = 'ph:bold/user') -%}
+    <div class="stage-shapes-demo--cell stage-shapes-demo--cell--box">
+        <div class="block stage-shape stage-shape--box {{ classes }}">
+            {%- if mark %}<span class="stage-shape--mark" aria-hidden="true">{{ icon(mark) }}</span>{% endif -%}
+            <span class="stage-shape--label">{{ label }}</span>
+        </div>
+    </div>
+{%- endmacro -%}
+
+{%- macro figure(shape, caption, classes = '', glyph = null) -%}
+    <div class="stage-shapes-demo--cell stage-shapes-demo--cell--{{ shape }}">
+        <div class="stage-shape stage-shape--{{ shape }} {{ classes }}">
+            <span class="stage-shape--figure">
+                {%- if glyph %}<span class="stage-shape--glyph" aria-hidden="true">{{ icon(glyph) }}</span>{% endif -%}
+            </span>
+            <span class="stage-shape--caption">{{ caption }}</span>
+        </div>
+    </div>
+{%- endmacro -%}
+
+{%- block page_body -%}
+    {%- import _self as demo -%}
+    <p class="lead">{{ '@page::intro' | trans }}</p>
+
+    <h2>{{ '@page::section.box.title' | trans }}</h2>
+    <p>{{ '@page::section.box.description' | trans }}</p>
+    <div class="stage-shapes-demo">
+        {{ demo.box('Review the article') }}
+        {{ demo.box('Send the invoice', '', 'ph:bold/gear') }}
+        {{ demo.box('No mark at all', '', null) }}
+        {{ demo.box('Holds more than itself', 'stage-shape--thick', 'ph:bold/plus-square') }}
+        {{ demo.box('A long name that takes up to three lines before it is cut short') }}
+    </div>
+
+    <h2>{{ '@page::section.circle.title' | trans }}</h2>
+    <p>{{ '@page::section.circle.description' | trans }}</p>
+    <div class="stage-shapes-demo">
+        {{ demo.figure('circle', 'Plain') }}
+        {{ demo.figure('circle', 'Start', 'stage-shape--tone-success', 'ph:bold/play') }}
+        {{ demo.figure('circle', 'End', 'stage-shape--thick stage-shape--tone-error', 'ph:bold/stop') }}
+        {{ demo.figure('circle', 'Waiting', 'stage-shape--double', 'ph:bold/clock') }}
+        {{ demo.figure('circle', 'Interrupting', 'stage-shape--double stage-shape--tone-warning', 'ph:bold/clock') }}
+        {{ demo.figure('circle', 'Message', 'stage-shape--tone-info', 'ph:fill/envelope-simple') }}
+    </div>
+
+    <h2>{{ '@page::section.diamond.title' | trans }}</h2>
+    <p>{{ '@page::section.diamond.description' | trans }}</p>
+    <div class="stage-shapes-demo">
+        {{ demo.figure('diamond', 'One way', 'stage-shape--tone-warning', 'ph:bold/x') }}
+        {{ demo.figure('diamond', 'Every way', 'stage-shape--tone-warning', 'ph:bold/plus') }}
+        {{ demo.figure('diamond', 'First event', 'stage-shape--tone-warning', 'ph:bold/pentagon') }}
+        {{ demo.figure('diamond', 'Plain') }}
+        {{ demo.figure('diamond', 'Thick', 'stage-shape--thick stage-shape--tone-info', 'ph:bold/question') }}
+    </div>
+{%- endblock -%}

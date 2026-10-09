@@ -1,0 +1,23 @@
+@use '@wexample/symfony-stage/css/shapes/stage-shape';
+
+// The figures in a row of cells, each the size an element of the stage would
+// give it, with room under it for its caption.
+.stage-shapes-demo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: var(--space-6) var(--space-7);
+  padding: var(--space-4) var(--space-4) var(--space-7);
+}
+
+.stage-shapes-demo--cell--box {
+  width: 10rem;
+  height: 5rem;
+}
+
+.stage-shapes-demo--cell--circle,
+.stage-shapes-demo--cell--diamond {
+  width: 3.5rem;
+  height: 3.5rem;
+  margin-inline: var(--space-4);
+}
