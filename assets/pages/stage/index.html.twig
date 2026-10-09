@@ -7,17 +7,25 @@
 
     <h2>{{ '@page::section.timeline.title' | trans }}</h2>
     <div class="lead">{{ '@page::section.timeline.description' | trans }}</div>
+    {#- A step is a box; an event a circle and a choice a diamond, smaller,
+        centred on the same line. -#}
     {%- set steps = [
-        { id: 'start', title: 'Order received', kind: 'event' },
+        { id: 'start', title: 'Order received', kind: 'event', tone: 'success', icon: 'ph:bold/play' },
         { id: 'check', title: 'Check the stock', kind: 'task' },
-        { id: 'enough', title: 'Enough stock?', kind: 'gateway' },
+        { id: 'enough', title: 'Enough stock?', kind: 'gateway', tone: 'warning', icon: 'ph:bold/x' },
         { id: 'ship', title: 'Ship', kind: 'task' },
         { id: 'invoice', title: 'Send the invoice', kind: 'task' },
-        { id: 'end', title: 'Order closed', kind: 'event' },
+        { id: 'end', title: 'Order closed', kind: 'event', tone: 'error', icon: 'ph:bold/stop' },
     ] -%}
     {%- set elements = [] -%}
     {%- for step in steps -%}
-        {%- set elements = elements|merge([step|merge({ x: 40 + loop.index0 * 240, y: 60, width: 160, height: 80 })]) -%}
+        {%- set figure = step.kind != 'task' -%}
+        {%- set elements = elements|merge([step|merge({
+            x: 40 + loop.index0 * 240 + (figure ? 52 : 0),
+            y: figure ? 72 : 60,
+            width: figure ? 56 : 160,
+            height: figure ? 56 : 80,
+        })]) -%}
     {%- endfor -%}
     {%- set elements = elements|merge([{ id: 'order', title: 'Order the missing', kind: 'task', x: 760, y: 200, width: 160, height: 80 }]) -%}
     {%- set links = [

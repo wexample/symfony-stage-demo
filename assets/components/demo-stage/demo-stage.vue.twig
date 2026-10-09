@@ -28,10 +28,20 @@
                     @update:links="(value) => links = value"
                     @update:selection="(value) => selection = value"
             >
-                <template #element="{ element, selected }">
-                    <div class="block block--card demo-stage--card" :class="'demo-stage--card--' + (element.kind || 'task')">
-                        <div class="block--title">[[ element.title ]]</div>
-                        <div class="block--body">[[ element.kind || 'task' ]]</div>
+                {#- The figures of the stage: a box for a step, a circle for an
+                    event, a diamond for a choice, toned as the page says. -#}
+                <template #element="{ element }">
+                    <div v-if="element.kind === 'event' || element.kind === 'gateway'"
+                         class="stage-shape"
+                         :class="[element.kind === 'event' ? 'stage-shape--circle' : 'stage-shape--diamond', element.tone ? 'stage-shape--tone-' + element.tone : null]">
+                        <span class="stage-shape--figure">
+                            <span v-if="element.icon" class="stage-shape--glyph" aria-hidden="true" v-html="renderIcon(element.icon)"></span>
+                        </span>
+                        <span class="stage-shape--caption">[[ element.title ]]</span>
+                    </div>
+                    <div v-else class="block stage-shape stage-shape--box">
+                        <span class="stage-shape--mark" aria-hidden="true" v-html="renderIcon('ph:bold/square')"></span>
+                        <span class="stage-shape--label">[[ element.title ]]</span>
                     </div>
                 </template>
             </stage>
