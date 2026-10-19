@@ -34,3 +34,21 @@ fr:
         processus. Glisser la surface la déplace, glisser une carte la déplace ;
         Maj et glisser en choisit plusieurs ; les flèches déplacent les éléments
         choisis, Suppr les retire, Ctrl+Z annule et Ctrl+Maj+Z refait.
+
+zh:
+  page_title: 舞台
+  page_icon: 'ph:bold/flow-arrow'
+  intro: symfony-stage：一个指针移动的表面，上面放置了元素——可以选择、拖动到网格上、链接、移除，每个变化都可以撤销和重做。舞台绘制页面交给它的元素，对它们的意义一无所知：这里的每一个都是它的图形（舞台形状）——一个步骤的框，一个事件的圆，一个选择的菱形。
+  section:
+    timeline:
+      title: 时间轴
+      description: 表面仅沿其线（x轴）移动，作为一个过程读取。拖动表面以移动它，拖动卡片以移动它；按住Shift并拖动可以选择多个；箭头移动所选的元素，删除键移除它们，Ctrl+Z撤销，Ctrl+Shift+Z重做.
+
+ar:
+  page_title: المسرح
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: مساحة يتحرك عليها المؤشر وتوضع العناصر عليها — تُختار، تُسحب إلى شبكة، تُربط، تُزال، كل تغيير يُلغى ويُعاد مرة أخرى. المسرح يرسم العناصر التي تسلمها الصفحة ولا يعرف شيئًا عما تعنيه: كل واحدة هنا هي واحدة من أشكالها (stage-shape) — صندوق لخطوة، دائرة لحدث، ماسة لاختيار.'
+  section:
+    timeline:
+      title: 'خط زمني'
+      description: 'السطح يتحرك على طول خطه فقط (محور س)، بينما يقرأ العملية. اسحب السطح لتحريكه، بطاقة لتحريكه؛ Shift والسحب يختار عدة؛ الأسهم تحرك المختارة، Delete تزيلها، Ctrl+Z يلغي و Ctrl+Shift+Z يعيدها.'

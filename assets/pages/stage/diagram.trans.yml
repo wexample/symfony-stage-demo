@@ -10,3 +10,13 @@ fr:
   intro: >-
     La même scène, déplacée dans tous les sens (axe both) : un schéma plutôt
     qu'une ligne.
+
+zh:
+  page_title: 图表
+  page_icon: 'ph:bold/graph'
+  intro: 相同的阶段在各个方向移动（两个轴）：一个图表而不是一条线。
+
+ar:
+  page_title: مخطط
+  page_icon: 'ph:bold/graph'
+  intro: 'المرحلة نفسها تتحرك في كل الاتجاهات (المحورين): مخطط بدلاً من خط.'
