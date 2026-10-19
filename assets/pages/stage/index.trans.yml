@@ -52,3 +52,174 @@ ar:
     timeline:
       title: 'خط زمني'
       description: 'السطح يتحرك على طول خطه فقط (محور س)، بينما يقرأ العملية. اسحب السطح لتحريكه، بطاقة لتحريكه؛ Shift والسحب يختار عدة؛ الأسهم تحرك المختارة، Delete تزيلها، Ctrl+Z يلغي و Ctrl+Shift+Z يعيدها.'
+
+hi:
+  page_title: स्टेज
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: एक सतह जहां संकेतक चलता है और तत्व रखे जाते हैं — चुने गए, एक ग्रिड पर खींचे गए, जोड़े गए, हटाए गए, हर परिवर्तन रद्द और फिर से किया गया। स्टेज उन तत्वों को खींचता है जो पृष्ठ उसे देता है और यह नहीं जानता कि उनका क्या मतलब है: यहां प्रत्येक तत्व इसके आकारों में से एक है (stage-shape) — एक कदम के लिए एक बॉक्स, एक घटना के लिए एक वृत्त, एक विकल्प के लिए एक हीरा।'
+  section:
+    timeline:
+      title: 'एक समयरेखा'
+      description: 'सतह केवल अपनी रेखा के साथ ही चलती है (एक्स अक्ष), जैसे एक प्रक्रिया पढ़ती है। सतह को खींचें इसे स्थानांतरित करने के लिए, एक कार्ड को इसे स्थानांतरित करने के लिए; Shift और खींचने से कई चुने जाते हैं; तीर चुने गए को स्थानांतरित करते हैं, Delete उन्हें हटा देता है, Ctrl+Z रद्द करता है और Ctrl+Shift+Z फिर से करता है।'
+
+he:
+  page_title: במה
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: משטח שעליו זז הסמן ואלמנטים מונחים עליו — נבחרים, נגררים לרשת, מקושרים, מוסרים, כל שינוי מבוטל ונעשה שוב. הבמה מציירת את האלמנטים שהדף מספק לה ואינה יודעת מה המשמעות שלהם: כל אחד כאן הוא אחד מדמויותיה (stage-shape) — תיבה עבור שלב, מעגל עבור אירוע, יהלום עבור בחירה.'
+  section:
+    timeline:
+      title: 'ציר זמן'
+      description: 'המשטח זז רק על הקו שלו (ציר x), כפי שתהליך קורא. גרור את המשטח כדי להזיז אותו, קלף כדי להזיז אותו; Shift וגרירה בוחרים כמה; החצים מזיזים את הנבחרים, Delete מסיר אותם, Ctrl+Z מבטל ו-Ctrl+Shift+Z עושה שוב.'
+
+fa:
+  page_title: صحنه
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: یک سطح که نشانگر بر روی آن حرکت می‌کند و عناصر بر روی آن قرار دارند — انتخاب شده، کشیده شده به یک شبکه، لینک شده، حذف شده، هر تغییر بازگشت و دوباره انجام می‌شود. صحنه عناصر را که صفحه به آن می‌دهد رسم می‌کند و هیچ چیزی از معنی آن‌ها نمی‌داند: هر یک از آن‌ها یکی از شکل‌های آن (stage-shape) است — یک جعبه برای یک مرحله، یک دایره برای یک رویداد، یک الماس برای یک انتخاب.'
+  section:
+    timeline:
+      title: 'یک زمان‌بندی'
+      description: 'سطح فقط در طول خط خود حرکت می‌کند (محور x)، همانطور که یک فرایند می‌خواند. سطح را بکشید تا آن را حرکت دهید، یک کارت را بکشید تا آن را حرکت دهید؛ با نگه داشتن Shift و کشیدن چندین را انتخاب کنید؛ فلش‌ها انتخاب شده‌ها را حرکت می‌دهند، Delete آن‌ها را حذف می‌کند، Ctrl+Z بازگشت می‌دهد و Ctrl+Shift+Z دوباره انجام می‌دهد.'
+
+ur:
+  page_title: اسٹیج
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: ایک سطح جہاں اشارہ حرکت کرتا ہے اور عناصر اس پر رکھے جاتے ہیں — چنے جاتے ہیں، ایک گرڈ پر کھینچے جاتے ہیں، لنک کیے جاتے ہیں، ہٹائے جاتے ہیں، ہر تبدیلی کو واپس کیا جاتا ہے اور دوبارہ کیا جاتا ہے۔ اسٹیج وہ عناصر کھینچتا ہے جو صفحہ اسے دیتا ہے اور اس کے معنی کے بارے میں کچھ نہیں جانتا: یہاں ہر ایک اس کی شکلوں میں سے ایک ہے (stage-shape) — ایک قدم کے لیے ایک باکس، ایک واقعہ کے لیے ایک دائرہ، ایک انتخاب کے لیے ایک ہیرا۔'
+  section:
+    timeline:
+      title: 'ایک وقت کا خط'
+      description: 'سطح صرف اپنی لائن کے ساتھ حرکت کرتی ہے (محور x) جیسے ہی ایک عمل پڑھتا ہے۔ سطح کو منتقل کرنے کے لیے اسے کھینچیں، ایک کارڈ کو منتقل کرنے کے لیے؛ Shift اور کھینچنے سے کئی چنے جاتے ہیں؛ تیر چنے ہوئے عناصر کو منتقل کرتے ہیں، Delete انہیں ہٹا دیتا ہے، Ctrl+Z واپس کرتا ہے اور Ctrl+Shift+Z دوبارہ کرتا ہے۔'
+
+ja:
+  page_title: ステージ
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: ポインタが移動する表面と、その上に配置された要素 — 選択、ドラッグしてグリッドに配置、リンク、削除、すべての変更を元に戻したり再実行したりします。ステージはページが渡した要素を描画し、それらが何を意味するのかは知りません: ここにあるそれぞれはその図形の1つ（ステージシェイプ） — ステップ用のボックス、イベント用の円、選択用のダイヤモンドです。'
+  section:
+    timeline:
+      title: タイムライン
+      description: '表面はそのラインに沿ってのみ（x軸）移動します。プロセスが読み取ります。表面をドラッグして移動させ、カードをドラッグして移動させます; Shiftを押しながらドラッグすると複数を選択できます; 矢印は選択したものを移動し、Deleteはそれらを削除し、Ctrl+Zは元に戻し、Ctrl+Shift+Zは再実行します。'
+
+ko:
+  page_title: 무대
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: 포인터가 이동하는 표면과 그 위에 배치된 요소들 — 선택, 끌어서 그리드에 놓기, 연결, 제거, 모든 변경 사항을 취소하고 다시 수행합니다. 무대는 페이지가 제공한 요소들을 그리며, 그 의미에 대해서는 전혀 알지 못합니다: 여기 있는 각 요소는 그 자체로 하나의 도형입니다 (stage-shape) — 단계에 대한 박스, 이벤트에 대한 원, 선택에 대한 다이아몬드입니다.'
+  section:
+    timeline:
+      title: 타임라인
+      description: '표면은 오직 그 선을 따라 (x축)만 이동하며, 프로세스가 읽습니다. 표면을 끌어 이동하거나 카드를 끌어 이동합니다; Shift를 누르고 끌면 여러 개를 선택합니다; 화살표는 선택된 것들을 이동시키고, Delete는 그것들을 제거하며, Ctrl+Z는 취소하고 Ctrl+Shift+Z는 다시 수행합니다.'
+
+bn:
+  page_title: দৃশ্য
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: একটি পৃষ্ঠভূমি যেখানে পয়েন্টারটি চলে এবং এতে উপাদানগুলি স্থাপন করা হয় — বাছাই করা, একটি গ্রিডে টানা, সংযুক্ত করা, মুছে ফেলা, প্রত্যেকটি পরিবর্তন ফিরিয়ে আনা এবং আবার করা। দৃশ্যটি পৃষ্ঠের দ্বারা দেওয়া উপাদানগুলি আঁকে এবং তাদের অর্থ সম্পর্কে কিছু জানে না: এখানে প্রতিটি একটি তার চিত্র (দৃশ্য-আকৃতি) — একটি পদক্ষেপের জন্য একটি বক্স, একটি ঘটনাসমূহের জন্য একটি বৃত্ত, একটি পছন্দের জন্য একটি হীরক।'
+  section:
+    timeline:
+      title: 'একটি সময়রেখা'
+      description: 'পৃষ্ঠভূমিটি শুধুমাত্র তার রেখার বরাবর (অক্ষ x) সরতে পারে, যেমন একটি প্রক্রিয়া পড়ে। পৃষ্ঠভূমিটি সরাতে টেনে আনুন, একটি কার্ডকে সরাতে; Shift চেপে ধরে টেনে আনলে একাধিক উপাদান বাছাই হয়; তীরগুলো বাছাইকৃতগুলিকে সরায়, মুছতে Delete ব্যবহার করুন, Ctrl+Z ফিরিয়ে আনবে এবং Ctrl+Shift+Z আবার করবে।'
+
+th:
+  page_title: เวที
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: พื้นที่ที่ตัวชี้เคลื่อนที่และมีองค์ประกอบวางอยู่บนมัน — ถูกเลือก, ลากไปยังกริด, เชื่อมโยง, ถูกลบ, ทุกการเปลี่ยนแปลงที่ย้อนกลับและทำซ้ำอีกครั้ง เวทีจะวาดองค์ประกอบที่หน้าให้และไม่รู้ว่าพวกมันหมายถึงอะไร: แต่ละอันที่นี่คือหนึ่งในรูปทรงของมัน (stage-shape) — กล่องสำหรับขั้นตอน, วงกลมสำหรับเหตุการณ์, รูปเพชรสำหรับทางเลือก.'
+  section:
+    timeline:
+      title: ไทม์ไลน์
+      description: 'พื้นผิวเคลื่อนที่ไปตามเส้นของมันเท่านั้น (แกน x), ขณะที่มีการอ่านกระบวนการ ลากพื้นผิวเพื่อเคลื่อนที่, การ์ดเพื่อเคลื่อนที่; Shift และลากเลือกหลาย; ลูกศรเคลื่อนที่ไปยังที่เลือก, Delete ลบออก, Ctrl+Z ย้อนกลับและ Ctrl+Shift+Z ทำอีกครั้ง.'
+
+de:
+  page_title: Bühne
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: eine Fläche, auf der der Zeiger bewegt wird und Elemente darauf platziert sind — ausgewählt, auf ein Raster gezogen, verbunden, entfernt, jede Änderung rückgängig gemacht und wiederholt. Die Bühne zeichnet die Elemente, die die Seite ihr übergibt, und weiß nichts über deren Bedeutung: jedes hier ist eine ihrer Figuren (stage-shape) — ein Kästchen für einen Schritt, ein Kreis für ein Ereignis, ein Diamant für eine Auswahl.'
+  section:
+    timeline:
+      title: 'Eine Zeitleiste'
+      description: 'Die Oberfläche bewegt sich nur entlang ihrer Linie (Achse x), während ein Prozess liest. Ziehen Sie die Oberfläche, um sie zu bewegen, eine Karte, um sie zu bewegen; Shift und Ziehen wählt mehrere aus; die Pfeile bewegen die ausgewählten, Löschen entfernt sie, Ctrl+Z macht rückgängig und Ctrl+Shift+Z macht sie wieder.'
+
+fi:
+  page_title: Lava
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: pinta, jota osoitin liikkuu ja elementit, jotka on asetettu sen päälle — valittu, raahattu ruudukkoon, linkitetty, poistettu, jokainen muutos kumottu ja tehty uudelleen. Lava piirtää elementit, jotka sivu sille antaa, eikä tiedä, mitä ne tarkoittavat: jokainen täällä on yksi sen kuvista (lava-muoto) — laatikko askeleelle, ympyrä tapahtumalle, timantti valinnalle.'
+  section:
+    timeline:
+      title: Aikajana
+      description: 'Pinta liikkuu vain sen linjaa pitkin (x-akseli), kun prosessi lukee. Raahaa pintaa liikuttaaksesi sitä, korttia liikuttaaksesi sitä; Shift ja raahaa valitsee useita; nuolet liikuttavat valittuja, Poista poistaa ne, Ctrl+Z kumoaa ja Ctrl+Shift+Z tekee sen uudelleen.'
+
+ru:
+  page_title: Этап
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: поверхность, по которой перемещается указатель и на которой располагаются элементы — выбираемые, перетаскиваемые на сетку, связанные, удаляемые, каждое изменение отменяемое и повторяемое. Этап отображает элементы, которые передает ему страница, и ничего не знает о том, что они значат: каждый из них здесь — это одна из его фигур (stage-shape) — квадрат для шага, круг для события, ромб для выбора.'
+  section:
+    timeline:
+      title: Хронология
+      description: 'Поверхность движется только вдоль своей линии (ось x), как это считывает процесс. Перетащите поверхность, чтобы переместить её, карту, чтобы её переместить; Shift и перетаскивание выбирают несколько; стрелки перемещают выбранные, Delete удаляет их, Ctrl+Z отменяет, а Ctrl+Shift+Z повторяет.'
+
+pl:
+  page_title: Scena
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: powierzchnia, po której porusza się wskaźnik i na której leżą elementy — wybierane, przeciągane na siatkę, łączone, usuwane, każda zmiana cofnieta i wykonana ponownie. Scena rysuje elementy, które jej przekazuje strona i nic nie wie o ich znaczeniu: każdy z nich to jedna z jej figur (stage-shape) — prostokąt dla kroku, okrąg dla wydarzenia, diament dla wyboru.'
+  section:
+    timeline:
+      title: 'Oś czasu'
+      description: 'Powierzchnia porusza się tylko wzdłuż swojej linii (oś x), w miarę jak proces odczytuje. Przeciągnij powierzchnię, aby ją przesunąć, kartę, aby ją przesunąć; Shift i przeciąganie wybiera kilka; strzałki przesuwają wybrane, Delete je usuwa, Ctrl+Z cofa, a Ctrl+Shift+Z wykonuje ponownie.'
+
+es:
+  page_title: Escenario
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: una superficie sobre la que se mueve el puntero y se colocan elementos — seleccionados, arrastrados a una cuadrícula, enlazados, eliminados, cada cambio deshecho y hecho de nuevo. El escenario dibuja los elementos que la página le entrega y no sabe nada de lo que significan: cada uno aquí es una de sus figuras (stage-shape) — una caja para un paso, un círculo para un evento, un rombo para una elección.'
+  section:
+    timeline:
+      title: 'Una línea de tiempo'
+      description: 'La superficie se mueve solo a lo largo de su línea (eje x), a medida que un proceso lee. Arrastra la superficie para moverla, una tarjeta para moverla; Shift y arrastrar selecciona varios; las flechas mueven los seleccionados, Suprimir los elimina, Ctrl+Z deshace y Ctrl+Shift+Z lo vuelve a hacer.'
+
+it:
+  page_title: Fase
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: una superficie su cui si muove il puntatore e gli elementi vi sono posizionati — selezionati, trascinati su una griglia, collegati, rimossi, ogni cambiamento annullato e rifatto. La fase disegna gli elementi che la pagina le fornisce e non sa nulla del loro significato: ciascuno qui è una delle sue figure (stage-shape) — una casella per un passaggio, un cerchio per un evento, un rombo per una scelta.'
+  section:
+    timeline:
+      title: 'Una linea del tempo'
+      description: 'La superficie si muove lungo la sua linea solo (asse x), mentre un processo legge. Trascina la superficie per spostarla, una scheda per spostarla; Shift e trascina selezionano più elementi; le frecce spostano quelli selezionati, Elimina li rimuove, Ctrl+Z annulla e Ctrl+Shift+Z rifà.'
+
+pt_BR:
+  page_title: Palco
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: uma superfície onde o ponteiro se move e elementos são dispostos — escolhidos, arrastados para uma grade, vinculados, removidos, cada mudança desfeita e refeita. O palco desenha os elementos que a página lhe entrega e não sabe nada sobre o que eles significam: cada um aqui é uma de suas figuras (stage-shape) — uma caixa para um passo, um círculo para um evento, um losango para uma escolha.'
+  section:
+    timeline:
+      title: 'Uma linha do tempo'
+      description: 'A superfície se move ao longo de sua linha apenas (eixo x), conforme um processo lê. Arraste a superfície para movê-la, um cartão para movê-lo; Shift e arrastar selecionam vários; as setas movem os selecionados, Delete os remove, Ctrl+Z desfaz e Ctrl+Shift+Z refaz.'
+
+tr:
+  page_title: Aşama
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: işaretçinin hareket ettiği ve üzerinde unsurların yer aldığı bir yüzey — alınan, bir ızgaraya sürüklenen, bağlanan, kaldırılan, her değişiklik geri alınan ve tekrar yapılan. Aşama, sayfanın kendisine verdiği unsurları çizer ve onların ne anlama geldiğini bilmez: burada her biri kendi figürlerinden biridir (stage-shape) — bir adım için bir kutu, bir olay için bir daire, bir seçim için bir elmas.'
+  section:
+    timeline:
+      title: 'Zaman çizelgesi'
+      description: 'Yüzey yalnızca kendi hattı boyunca (x ekseni) hareket ederken, bir süreç okur. Yüzeyi hareket ettirmek için sürükleyin, bir kartı hareket ettirmek için sürükleyin; Shift ile sürüklemek birden fazla seçer; oklar seçilenleri taşır, Sil tuşu kaldırır, Ctrl+Z geri alır ve Ctrl+Shift+Z tekrar yapar.'
+
+vi:
+  page_title: 'Sân khấu'
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: một bề mặt mà con trỏ di chuyển và các phần tử được đặt lên đó — được chọn, kéo lên lưới, liên kết, xóa, mọi thay đổi đều có thể hoàn tác và làm lại. Sân khấu vẽ các phần tử mà trang cung cấp và không biết chúng có ý nghĩa gì: mỗi phần tử ở đây là một trong các hình dạng của nó (hình dạng sân khấu) — một hộp cho một bước, một hình tròn cho một sự kiện, một hình thoi cho một lựa chọn.'
+  section:
+    timeline:
+      title: 'Một dòng thời gian'
+      description: 'Bề mặt chỉ di chuyển dọc theo đường của nó (trục x), khi một quy trình đọc. Kéo bề mặt để di chuyển nó, một thẻ để di chuyển nó; Shift và kéo chọn nhiều cái; các mũi tên di chuyển những cái đã chọn, Delete xóa chúng, Ctrl+Z hoàn tác và Ctrl+Shift+Z làm lại.'
+
+id:
+  page_title: Panggung
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: sebuah permukaan tempat penunjuk bergerak dan elemen-elemen diletakkan di atasnya — dipilih, diseret ke grid, terhubung, dihapus, setiap perubahan dibatalkan dan dilakukan lagi. Panggung menggambar elemen-elemen yang diserahkan halaman kepadanya dan tidak tahu apa artinya: masing-masing di sini adalah salah satu dari bentuknya (stage-shape) — sebuah kotak untuk langkah, sebuah lingkaran untuk acara, sebuah berlian untuk pilihan.'
+  section:
+    timeline:
+      title: 'Garis waktu'
+      description: 'Permukaan bergerak sepanjang garisnya saja (sumbu x), saat sebuah proses membaca. Seret permukaan untuk memindahkannya, sebuah kartu untuk memindahkannya; Shift dan seret memilih beberapa; panah memindahkan yang dipilih, Hapus menghapusnya, Ctrl+Z membatalkan dan Ctrl+Shift+Z melakukannya lagi.'
+
+nl:
+  page_title: Stage
+  page_icon: 'ph:bold/flow-arrow'
+  intro: 'symfony-stage: een oppervlak waar de aanwijzer overheen beweegt en elementen op zijn gelegd — geselecteerd, gesleept naar een raster, gekoppeld, verwijderd, elke wijziging ongedaan gemaakt en opnieuw gedaan. Het podium tekent de elementen die de pagina aanlevert en weet niets van wat ze betekenen: elk hiervan is een van zijn figuren (stage-shape) — een doos voor een stap, een cirkel voor een gebeurtenis, een diamant voor een keuze.'
+  section:
+    timeline:
+      title: 'Een tijdlijn'
+      description: 'Het oppervlak beweegt alleen langs zijn lijn (as x), terwijl een proces leest. Sleep het oppervlak om het te verplaatsen, een kaart om het te verplaatsen; Shift en slepen selecteert meerdere; de pijlen verplaatsen de geselecteerde, Delete verwijdert ze, Ctrl+Z maakt ongedaan en Ctrl+Shift+Z doet het opnieuw.'

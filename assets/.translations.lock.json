@@ -13,6 +13,272 @@
             "engine": "syrtis"
         }
     },
+    "pages/stage/diagram.bn.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.de.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.es.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.fa.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.fi.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.he.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.hi.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.id.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.it.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.ja.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.ko.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.nl.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.pl.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.pt_BR.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.ru.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.th.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.tr.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.ur.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/diagram.vi.yml": {
+        "intro": {
+            "hash": "3be9a5b8fa9974ef30252102ba62665c",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "6ada14315dceca4b16ec3d4bfc980478",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a0ee3eb5021aa888dcdb3d0fd2f9b62c",
+            "engine": "syrtis"
+        }
+    },
     "pages/stage/diagram.zh.yml": {
         "intro": {
             "hash": "3be9a5b8fa9974ef30252102ba62665c",
@@ -28,6 +294,424 @@
         }
     },
     "pages/stage/index.ar.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.bn.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.de.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.es.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.fa.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.fi.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.he.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.hi.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.id.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.it.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.ja.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.ko.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.nl.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.pl.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.pt_BR.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.ru.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.th.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.tr.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.ur.yml": {
+        "intro": {
+            "hash": "3526f056d5fb10ceb108fe0898575258",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "d346fb5ea2442285436c6491989757e6",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "bd08734cf8008496dbbf777aed2138f2",
+            "engine": "syrtis"
+        },
+        "section.timeline.description": {
+            "hash": "f06220db73bd6043bb19a6c6e8558460",
+            "engine": "syrtis"
+        },
+        "section.timeline.title": {
+            "hash": "741e21d4866013ca7c52c60dc3553743",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/index.vi.yml": {
         "intro": {
             "hash": "3526f056d5fb10ceb108fe0898575258",
             "engine": "syrtis"
@@ -72,6 +756,728 @@
         }
     },
     "pages/stage/shapes.ar.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.bn.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.de.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.es.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.fa.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.fi.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.he.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.hi.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.id.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.it.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.ja.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.ko.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.nl.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.pl.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.pt_BR.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.ru.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.th.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.tr.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.ur.yml": {
+        "intro": {
+            "hash": "5dee3e773a716139458a49664ac0fda6",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "18806d7b68170154538816b55cb67242",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "32d8e6c9a0e5cd3206a8aea7c3562eb0",
+            "engine": "syrtis"
+        },
+        "section.box.description": {
+            "hash": "e1eaa72bd68e28e8a71c3ec36652b055",
+            "engine": "syrtis"
+        },
+        "section.box.title": {
+            "hash": "716e4d9edd99f2daf7f8425d0b1a68a2",
+            "engine": "syrtis"
+        },
+        "section.circle.description": {
+            "hash": "47ee248a2eb93cb1dfec38e20166cdbb",
+            "engine": "syrtis"
+        },
+        "section.circle.title": {
+            "hash": "af76a8a3f4c666eb1bdaa5e6876a9f7f",
+            "engine": "syrtis"
+        },
+        "section.diamond.description": {
+            "hash": "1e6d0b6d9b029126f1967fefb88d8e1e",
+            "engine": "syrtis"
+        },
+        "section.diamond.title": {
+            "hash": "b8e3f712bca3ab48b152302e1e31261b",
+            "engine": "syrtis"
+        }
+    },
+    "pages/stage/shapes.vi.yml": {
         "intro": {
             "hash": "5dee3e773a716139458a49664ac0fda6",
             "engine": "syrtis"

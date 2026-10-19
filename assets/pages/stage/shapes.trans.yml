@@ -83,3 +83,288 @@ ar:
     diamond:
       title: المعين
       description: 'حيث يتفرع الطريق: المربع متحول، رمزه قائم، كلماته تحته؛ نفس الحواف والألوان مثل الدائرة.'
+
+hi:
+  page_title: आकृतियाँ
+  page_icon: 'ph:bold/shapes'
+  intro: 'जो आकृतियाँ एक आरेख पर मंच पर खींची जाती हैं (मंच-आकृति): उनका अर्थ है पृष्ठ का — एक प्रक्रिया, एक कार्यप्रवाह, एक योजना —, वे कैसी दिखती हैं यह डिज़ाइन सिस्टम के टोकनों पर एक बार कहा जाता है। हर एक वह तत्व भरता है जो मंच उसे देता है।'
+  section:
+    box:
+      title: बॉक्स
+      description: 'डिज़ाइन सिस्टम का एक ब्लॉक जिसमें इसके किनारे खींचे गए हैं: यह अपने कोने में क्या है (ब्लॉक--मार्क), इसके शब्द बीच में, अधिकतम तीन पंक्तियाँ। जो अधिक रखता है उसके लिए भारी (मंच-आकृति--भारी)।'
+    circle:
+      title: गोल
+      description: 'जहाँ कुछ शुरू होता है, रुकता है या समाप्त होता है: इसके भीतर एक प्रतीक, इसके नीचे इसके शब्द। इसका किनारा भारी (मंच-आकृति--भारी) या डबल (मंच-आकृति--डबल), एक टोन में (मंच-आकृति--टोन-सम्पूर्ण, -चेतावनी, -त्रुटि, -सूचना)।'
+    diamond:
+      title: हीरा
+      description: 'जहाँ रास्ता bifurcate होता है: वर्ग पलटा हुआ, इसका प्रतीक सीधा, इसके नीचे इसके शब्द; गोल की तरह ही किनारे और टोन।'
+
+he:
+  page_title: צורות
+  page_icon: 'ph:bold/shapes'
+  intro: 'הדמויות שעםן מצוייר דיאגרמה על הבמה (צורת-במה): מה שהן מייצגות זה מה שהדף מייצג — תהליך, זרימת עבודה, תכנית —, איך שהן נראות נאמר פעם אחת, לפי הטוקנים של מערכת העיצוב. כל אחת ממלאה את האלמנט שהבמה נותנת לה.'
+  section:
+    box:
+      title: הקופסה
+      description: 'בלוק של מערכת העיצוב עם קו מתאר: מה שהיא בפינה שלה (בלוק--סימן), המילים שלה במרכז, שלוש שורות לכל היותר. יותר כבד (צורת-במה--עבה) עבור אחת שמחזיקה יותר מעצמה.'
+    circle:
+      title: המעגל
+      description: 'איפה שמשהו מתחיל, מחכה או מסתיים: גיפ במרכזו, המילים שלו מתחתיו. הקו שלה כבד יותר (צורת-במה--עבה) או כפול (צורת-במה--כפול), בגוון (צורת-במה--גוון-הצלחה, -אזהרה, -שגיאה, -מידע).'
+    diamond:
+      title: היהלום
+      description: 'איפה שהדרך מתפצלת: הריבוע הפוך, הגיפ שלו זקוף, המילים שלו מתחתיו; אותם קווים וגוונים כמו המעגל.'
+
+fa:
+  page_title: اشکال
+  page_icon: 'ph:bold/shapes'
+  intro: 'شکل‌هایی که یک نمودار روی صحنه با آن‌ها ترسیم شده است (شکل-صحنه): آن‌ها به معنای فرایند، جریان کار، یا برنامه صفحه هستند؛ نحوه‌ی ظاهر آن‌ها یک‌بار در توکن‌های سیستم طراحی بیان می‌شود. هر یک از آن‌ها عنصری را که صحنه به آن می‌دهد پر می‌کند.'
+  section:
+    box:
+      title: جعبه
+      description: 'یک بلوک از سیستم طراحی با لبه‌هایی که ترسیم شده است: آنچه در گوشه‌اش وجود دارد (بلوک--علامت)، کلماتش در وسط، حداکثر سه خط. سنگین‌تر (شکل-صحنه--ضخیم) برای آنکه بیشتر از خودش را در بر می‌گیرد.'
+    circle:
+      title: دایره
+      description: 'جایی که چیزی آغاز می‌شود، منتظر می‌ماند یا پایان می‌یابد: یک گلیف در آن، کلماتش زیر آن. لبه‌اش سنگین‌تر (شکل-صحنه--ضخیم) یا دو برابر (شکل-صحنه--دوبرابر)، در یک تن (شکل-صحنه--تن-موفق، -هشدار، -خطا، -اطلاعات).'
+    diamond:
+      title: مؤلفه
+      description: 'جایی که راه دو شاخه می‌شود: مربع چرخیده، گلیف آن ایستاده، کلماتش زیر آن؛ لبه‌ها و تن‌های مشابه با دایره.'
+
+ur:
+  page_title: اشکال
+  page_icon: 'ph:bold/shapes'
+  intro: 'جو شکلیں ایک ڈایاگرام پر اسٹیج پر بنائی جاتی ہیں (اسٹیج-شکل): ان کا مطلب اس صفحے کا ہے — ایک عمل، ایک ورک فلو، ایک منصوبہ —، ان کی شکلیں ایک بار کہا جاتا ہے، ڈیزائن سسٹم کے ٹوکنز پر۔ ہر ایک عنصر کو بھر دیتا ہے جو اسٹیج اسے دیتا ہے۔'
+  section:
+    box:
+      title: باکس
+      description: 'ڈیزائن سسٹم کا ایک بلاک جس کا کنارہ بنایا گیا ہے: اس کے کونے میں کیا ہے (بلاک--مارک)، اس کے درمیان الفاظ، زیادہ سے زیادہ تین لائنیں۔ بھاری (اسٹیج-شکل--موٹا) اس کے لیے جو خود سے زیادہ رکھتا ہے۔'
+    circle:
+      title: دایرہ
+      description: 'جہاں کچھ شروع ہوتا ہے، انتظار کرتا ہے یا ختم ہوتا ہے: اس میں ایک گلیف، اس کے نیچے الفاظ۔ اس کا کنارہ بھاری (اسٹیج-شکل--موٹا) یا دوگنا (اسٹیج-شکل--دوگنا)، ایک لہجے میں (اسٹیج-شکل--لہجہ-کامیاب، -خبردار، -غلطی، -معلومات)۔'
+    diamond:
+      title: ہیرا
+      description: 'جہاں راستہ دو شاخوں میں تقسیم ہوتا ہے: مربع مڑا ہوا، اس کا گلیف سیدھا، اس کے نیچے الفاظ؛ دائرے کی طرح کے ہی کنارہ اور لہجے۔'
+
+ja:
+  page_title: 図形
+  page_icon: 'ph:bold/shapes'
+  intro: ステージに描かれた図の形（ステージ形状）：それらが意味するのはページのプロセス、ワークフロー、計画であり、見た目はデザインシステムのトークンで一度言及される。各図形はステージが与える要素を埋める。
+  section:
+    box:
+      title: ボックス
+      description: デザインシステムのブロックで、その端が描かれている：コーナーに何があるのか（ブロック--マーク）、中央にある言葉、最大三行。自身以上のものを保持するものには、より重い（ステージ形状--厚い）。
+    circle:
+      title: 円
+      description: 何かが始まり、待ち、または終わる場所：その中にあるグリフ、下にある言葉。端はより重い（ステージ形状--厚い）か、二重（ステージ形状--二重）、トーン（ステージ形状--トーン成功、-警告、-エラー、-情報）で。
+    diamond:
+      title: ひし形
+      description: 道が分かれる場所：回転した四角、直立したグリフ、下にある言葉；円と同じ端とトーン。
+
+ko:
+  page_title: 도형
+  page_icon: 'ph:bold/shapes'
+  intro: '무대에서 그려진 도형으로 구성된 도표: 그 의미는 페이지의 — 프로세스, 워크플로우, 계획 — 에 있으며, 그 모양은 디자인 시스템의 토큰에 한 번 언급됩니다. 각 도형은 무대가 제공하는 요소를 채웁니다.'
+  section:
+    box:
+      title: 상자
+      description: '모서리가 그려진 디자인 시스템의 블록: 모서리에 무엇이 있는지 (block--mark), 가운데에 있는 단어, 최대 세 줄. 자신보다 더 많은 것을 담는 경우 더 두껍습니다 (stage-shape--thick).'
+    circle:
+      title: 원
+      description: '무언가가 시작되거나 기다리거나 끝나는 곳: 그 안에 있는 글리프, 그 아래에 있는 단어. 가장자리가 더 두껍거나 (stage-shape--thick) 이중 (stage-shape--double)이며, 색조 (stage-shape--tone-success, -warning, -error, -info)가 있습니다.'
+    diamond:
+      title: 다이아몬드
+      description: '길이 갈라지는 곳: 정사각형이 회전하고, 글리프가 세워져 있으며, 그 아래에 있는 단어; 원과 동일한 가장자리와 색조를 가집니다.'
+
+bn:
+  page_title: আকৃতি
+  page_icon: 'ph:bold/shapes'
+  intro: 'মঞ্চে একটি ডায়াগ্রামে আঁকা আকারগুলি (মঞ্চ-আকৃতি): এগুলোর অর্থ হল পৃষ্ঠার — একটি প্রক্রিয়া, একটি কার্যপ্রবাহ, একটি পরিকল্পনা —, এগুলোর চেহারা ডিজাইন সিস্টেমের টোকেনগুলিতে একবার বলা হয়। প্রতিটি একক মঞ্চের দ্বারা প্রদত্ত উপাদান পূর্ণ করে।'
+  section:
+    box:
+      title: বক্স
+      description: 'ডিজাইন সিস্টেমের একটি ব্লক যার প্রান্ত আঁকা হয়েছে: এর কোণে কী আছে (ব্লক--মার্ক), এর শব্দ মাঝখানে, সর্বাধিক তিনটি লাইন। একটির জন্য যা নিজেকে ছাড়িয়ে আরও ধারণ করে (মঞ্চ-আকৃতি--মোটা)।'
+    circle:
+      title: বৃত্ত
+      description: 'যেখানে কিছু শুরু হয়, অপেক্ষা করে বা শেষ হয়: এর মধ্যে একটি চিহ্ন, এর নিচে শব্দ। এর প্রান্ত মোটা (মঞ্চ-আকৃতি--মোটা) বা দ্বিগুণ (মঞ্চ-আকৃতি--ডাবল), একটি স্বরে (মঞ্চ-আকৃতি--স্বর-সফল, -সতর্কতা, -ত্রুটি, -তথ্য)।'
+    diamond:
+      title: হীরক
+      description: 'যেখানে পথ bifurcates: ঘুরে যাওয়া বর্গক্ষেত্র, এর চিহ্ন উল্লম্ব, এর নিচে শব্দ; বৃত্তের মতো একই প্রান্ত এবং স্বর।'
+
+th:
+  page_title: รูปทรง
+  page_icon: 'ph:bold/shapes'
+  intro: 'รูปทรงที่แสดงในแผนภาพบนเวที (stage-shape): ความหมายคือหน้าของมัน — กระบวนการ, เวิร์กโฟลว์, แผน — รูปลักษณ์ที่กล่าวถึงเพียงครั้งเดียวในโทเค็นของระบบการออกแบบ แต่ละอันเติมองค์ประกอบที่เวทีมอบให้'
+  section:
+    box:
+      title: กล่อง
+      description: 'บล็อกของระบบการออกแบบที่มีขอบล้อมรอบ: มันคืออะไรในมุมของมัน (block--mark), คำของมันอยู่กลางบล็อก, สูงสุดสามบรรทัด หนักขึ้น (stage-shape--thick) สำหรับอันที่ถือมากกว่าตัวมันเอง'
+    circle:
+      title: วงกลม
+      description: 'จุดที่บางสิ่งเริ่มต้น รอ หรือสิ้นสุด: สัญลักษณ์ภายใน, คำของมันอยู่ใต้ สุดขอบหนักขึ้น (stage-shape--thick) หรือซ้อนกัน (stage-shape--double), ในโทนสี (stage-shape--tone-success, -warning, -error, -info)'
+    diamond:
+      title: เพชร
+      description: 'จุดที่ทางแยก: สี่เหลี่ยมที่หมุน, สัญลักษณ์ตั้งตรง, คำของมันอยู่ใต้; ขอบและโทนเดียวกันกับวงกลม.'
+
+de:
+  page_title: Formen
+  page_icon: 'ph:bold/shapes'
+  intro: 'Die Figuren, mit denen ein Diagramm auf der Bühne gezeichnet wird (Bühnenform): was sie bedeuten, ist das der Seite — ein Prozess, ein Workflow, ein Plan —, wie sie aussehen, wird einmal gesagt, auf den Tokens des Designs. Jede füllt das Element, das die Bühne ihr gibt.'
+  section:
+    box:
+      title: 'Die Box'
+      description: 'Ein Block des Designsystems mit gezeichneten Kanten: was es in seiner Ecke ist (block--mark), seine Worte in der Mitte, höchstens drei Zeilen. Schwerer (bühnenform--dick) für einen, der mehr als sich selbst hält.'
+    circle:
+      title: 'Der Kreis'
+      description: 'Wo etwas beginnt, wartet oder endet: ein Glyph darin, seine Worte darunter. Seine Kante schwerer (bühnenform--dick) oder doppelt (bühnenform--doppelt), in einem Ton (bühnenform--ton-erfolg, -warnung, -fehler, -info).'
+    diamond:
+      title: 'Das Rhombus'
+      description: 'Wo der Weg sich gabelt: das Quadrat gedreht, sein Glyph aufrecht, seine Worte darunter; die gleichen Kanten und Töne wie der Kreis.'
+
+fi:
+  page_title: Muodot
+  page_icon: 'ph:bold/shapes'
+  intro: 'Kuvio, jonka avulla diagrammi lavalla on piirretty (lavamuoto): mitä ne tarkoittavat, on sivun — prosessi, työnkulku, suunnitelma —, miltä ne näyttävät sanotaan kerran, suunnittelujärjestelmän tunnuksilla. Jokainen täyttää elementin, jonka lava sille antaa.'
+  section:
+    box:
+      title: Laatikko
+      description: 'Suunnittelujärjestelmän lohko, jonka reunat on piirretty: mitä se on kulmassaan (lohko--merkki), sen sanat keskellä, enintään kolme riviä. Raskaampi (lavamuoto--paksu) sellaiselle, joka pitää enemmän kuin itsensä.'
+    circle:
+      title: Ympyrä
+      description: 'Missä jotain alkaa, odottaa tai päättyy: glyph siihen, sen sanat sen alla. Sen reuna raskaampi (lavamuoto--paksu) tai kaksinkertainen (lavamuoto--kaksinkertainen), sävyssä (lavamuoto--sävy-menestys, -varoitus, -virhe, -tieto).'
+    diamond:
+      title: Timantti
+      description: 'Missä tie haarautuu: neliö käännettynä, sen glyph pystysuorassa, sen sanat sen alla; samat reunat ja sävyt kuin ympyrällä.'
+
+ru:
+  page_title: Фигуры
+  page_icon: 'ph:bold/shapes'
+  intro: 'Фигуры, с помощью которых на сцене рисуется диаграмма (stage-shape): что они означают — это страница, процесс, рабочий процесс, план —, как они выглядят, говорится один раз, на токенах системы дизайна. Каждый из них заполняет элемент, который дает ему сцена.'
+  section:
+    box:
+      title: Коробка
+      description: 'Блок системы дизайна с нарисованным краем: что это в углу (block--mark), его слова посередине, максимум три строки. Тяжелее (stage-shape--thick) для того, что содержит больше, чем само по себе.'
+    circle:
+      title: Круг
+      description: 'Где что-то начинается, ждет или заканчивается: глиф внутри, его слова под ним. Его край тяжелее (stage-shape--thick) или двойной (stage-shape--double), в тоне (stage-shape--tone-success, -warning, -error, -info).'
+    diamond:
+      title: Ромб
+      description: 'Где путь разветвляется: квадрат повернут, его глиф вертикально, его слова под ним; те же края и тона, что и у круга.'
+
+pl:
+  page_title: Kształty
+  page_icon: 'ph:bold/shapes'
+  intro: 'Figury, z których rysowany jest diagram na scenie (kształt-sceniczny): co oznaczają, to strona — proces, przepływ pracy, plan —, jak wyglądają, jest powiedziane raz, na tokenach systemu projektowego. Każdy z nich wypełnia element, który mu daje scena.'
+  section:
+    box:
+      title: Box
+      description: 'Blok systemu projektowego z narysowanym brzegiem: co to jest w swoim rogu (blok--znak), jego słowa w środku, maksymalnie trzy linie. Cięższy (kształt-sceniczny--gruby) dla takiego, który pomieści więcej niż siebie.'
+    circle:
+      title: Koło
+      description: 'Gdzie coś się zaczyna, czeka lub kończy: glyph w nim, jego słowa pod nim. Jego brzeg cięższy (kształt-sceniczny--gruby) lub podwójny (kształt-sceniczny--podwójny), w tonie (kształt-sceniczny--ton-sukcesu, -ostrzeżenie, -błąd, -informacja).'
+    diamond:
+      title: Diament
+      description: 'Gdzie droga się rozwidla: kwadrat obrócony, jego glyph w pionie, jego słowa pod nim; te same krawędzie i tony co koło.'
+
+es:
+  page_title: Formas
+  page_icon: 'ph:bold/shapes'
+  intro: 'Las figuras con las que se dibuja un diagrama en el escenario (forma-escenario): lo que significan es el proceso de la página, un flujo de trabajo, un plan; cómo se ven se dice una vez, en los tokens del sistema de diseño. Cada una llena el elemento que el escenario le otorga.'
+  section:
+    box:
+      title: 'La caja'
+      description: 'Un bloque del sistema de diseño con su borde dibujado: lo que es en su esquina (bloque--marca), sus palabras en el medio, tres líneas como máximo. Más pesado (forma-escenario--grueso) para uno que sostiene más que sí mismo.'
+    circle:
+      title: 'El círculo'
+      description: 'Donde algo comienza, espera o termina: un glifo en él, sus palabras debajo. Su borde más pesado (forma-escenario--grueso) o doblado (forma-escenario--doble), en un tono (forma-escenario--tono-exito, -advertencia, -error, -info).'
+    diamond:
+      title: 'El diamante'
+      description: 'Donde el camino se bifurca: el cuadrado girado, su glifo en posición vertical, sus palabras debajo; los mismos bordes y tonos que el círculo.'
+
+it:
+  page_title: Forme
+  page_icon: 'ph:bold/shapes'
+  intro: "Le figure con cui è disegnato un diagramma sulla scena (forma-scena): ciò che significano è il contenuto della pagina — un processo, un flusso di lavoro, un piano —, come appaiono è detto una volta, sui token del sistema di design. Ognuno riempie l'elemento che la scena gli attribuisce."
+  section:
+    box:
+      title: 'La scatola'
+      description: 'Un blocco del sistema di design con il suo bordo disegnato: cosa è nel suo angolo (blocco--marcatura), le sue parole al centro, al massimo tre righe. Più pesante (forma-scena--spessa) per uno che contiene più di se stesso.'
+    circle:
+      title: 'Il cerchio'
+      description: 'Dove qualcosa inizia, aspetta o finisce: un glifo al suo interno, le sue parole sotto di esso. Il suo bordo è più pesante (forma-scena--spessa) o doppio (forma-scena--doppio), in un tono (forma-scena--tonalità-successo, -avviso, -errore, -informazione).'
+    diamond:
+      title: 'Il rombo'
+      description: 'Dove il cammino si biforca: il quadrato ruotato, il suo glifo in posizione verticale, le sue parole sotto di esso; gli stessi bordi e toni del cerchio.'
+
+pt_BR:
+  page_title: Formas
+  page_icon: 'ph:bold/shapes'
+  intro: 'As figuras com as quais um diagrama na página é desenhado (forma-do-palco): o que significam é o da página — um processo, um fluxo de trabalho, um plano —, como elas se parecem é dito uma vez, nos tokens do sistema de design. Cada uma preenche o elemento que o palco lhe dá.'
+  section:
+    box:
+      title: 'A caixa'
+      description: 'Um bloco do sistema de design com suas bordas desenhadas: o que é em seu canto (bloco--marca), suas palavras no meio, três linhas no máximo. Mais pesado (forma-do-palco--grossa) para um que contém mais do que ele mesmo.'
+    circle:
+      title: 'O círculo'
+      description: 'Onde algo começa, espera ou termina: um glifo nele, suas palavras abaixo dele. Sua borda mais pesada (forma-do-palco--grossa) ou dobrada (forma-do-palco--dobrada), em um tom (forma-do-palco--tom-sucesso, -aviso, -erro, -info).'
+    diamond:
+      title: 'O losango'
+      description: 'Onde o caminho se divide: o quadrado virado, seu glifo em pé, suas palavras abaixo dele; as mesmas bordas e tons que o círculo.'
+
+tr:
+  page_title: Şekiller
+  page_icon: 'ph:bold/shapes'
+  intro: "Bir diyagramın sahnede çizildiği figürler (sahne-şekli): ne anlama geldiği sayfanın — bir süreç, bir iş akışı, bir plan —, nasıl göründüğü ise bir kez, tasarım sisteminin token'larında söylenir. Her biri, sahnenin verdiği öğeyi doldurur."
+  section:
+    box:
+      title: Kutu
+      description: 'Kenarları çizilmiş bir tasarım sistemi bloğu: köşesinde ne olduğu (blok--işaret), ortasında kelimeleri, en fazla üç satır. Kendinden daha fazlasını tutan için daha ağır (sahne-şekli--kalın).'
+    circle:
+      title: Daire
+      description: 'Bir şeyin başladığı, beklediği veya bittiği yer: içinde bir glif, altında kelimeleri. Kenarı daha ağır (sahne-şekli--kalın) veya çift (sahne-şekli--çift), bir ton içinde (sahne-şekli--ton-başarı, -uyarı, -hata, -bilgi).'
+    diamond:
+      title: Elmas
+      description: 'Yolun ayrıldığı yer: kare döndürülmüş, glifi dik, altında kelimeleri; daire ile aynı kenar ve tonlar.'
+
+vi:
+  page_title: 'Hình dạng'
+  page_icon: 'ph:bold/shapes'
+  intro: 'Các hình ảnh mà một sơ đồ trên sân khấu được vẽ với (hình dạng sân khấu): điều chúng có nghĩa là trang này — một quy trình, một luồng công việc, một kế hoạch —, cách chúng trông như thế nào được nói đến một lần, trên các mã thông báo của hệ thống thiết kế. Mỗi hình lấp đầy phần tử mà sân khấu cung cấp cho nó.'
+  section:
+    box:
+      title: Hộp
+      description: 'Một khối của hệ thống thiết kế với các cạnh được vẽ: nó là gì ở góc của nó (block--mark), các từ của nó ở giữa, tối đa ba dòng. Nặng hơn (stage-shape--thick) cho một cái chứa nhiều hơn bản thân nó.'
+    circle:
+      title: 'Hình tròn'
+      description: 'Nơi mà một cái gì đó bắt đầu, đợi hoặc kết thúc: một ký hiệu trong đó, các từ của nó ở dưới. Các cạnh của nó nặng hơn (stage-shape--thick) hoặc gấp đôi (stage-shape--double), trong một tông màu (stage-shape--tone-success, -warning, -error, -info).'
+    diamond:
+      title: 'Hình thoi'
+      description: 'Nơi mà con đường chia nhánh: hình vuông quay, ký hiệu của nó thẳng đứng, các từ của nó ở dưới; các cạnh và tông màu giống như hình tròn.'
+
+id:
+  page_title: Bentuk
+  page_icon: 'ph:bold/shapes'
+  intro: 'Angka-angka yang digambar pada diagram di panggung (bentuk-panggung): apa artinya adalah halaman ini — sebuah proses, alur kerja, rencana —, bagaimana penampilannya dikatakan sekali, pada token sistem desain. Masing-masing mengisi elemen yang diberikan panggung.'
+  section:
+    box:
+      title: Kotak
+      description: 'Sebagian dari sistem desain dengan tepinya digambar: apa adanya di sudutnya (blok--tanda), kata-katanya di tengah, maksimal tiga baris. Lebih berat (bentuk-panggung--tebal) untuk yang menampung lebih dari dirinya sendiri.'
+    circle:
+      title: Lingkaran
+      description: 'Di mana sesuatu dimulai, menunggu atau berakhir: sebuah glif di dalamnya, kata-katanya di bawahnya. Tepi yang lebih berat (bentuk-panggung--tebal) atau ganda (bentuk-panggung--ganda), dalam nada (bentuk-panggung--nada-sukses, -peringatan, -kesalahan, -info).'
+    diamond:
+      title: Berlian
+      description: 'Di mana jalan bercabang: persegi yang diputar, glifnya tegak, kata-katanya di bawahnya; tepi dan nada yang sama seperti lingkaran.'
+
+nl:
+  page_title: Vormen
+  page_icon: 'ph:bold/shapes'
+  intro: "De figuren waarmee een diagram op het podium is getekend (podium-vorm): wat ze betekenen is de pagina's — een proces, een workflow, een plan —, hoe ze eruitzien wordt eenmaal gezegd, op de tokens van het ontwerpsysteem. Elk vult het element dat het podium geeft."
+  section:
+    box:
+      title: 'De doos'
+      description: 'Een blok van het ontwerpsysteem met zijn rand getekend: wat het is in de hoek (blok--mark), zijn woorden in het midden, maximaal drie regels. Zwaarder (podium-vorm--dik) voor degene die meer dan zichzelf bevat.'
+    circle:
+      title: 'De cirkel'
+      description: 'Waar iets begint, wacht of eindigt: een glyph erin, zijn woorden eronder. Zijn rand zwaarder (podium-vorm--dik) of dubbel (podium-vorm--dubbel), in een toon (podium-vorm--toon-succes, -waarschuwing, -fout, -info).'
+    diamond:
+      title: 'De diamant'
+      description: 'Waar de weg zich splitst: de vierkant gedraaid, zijn glyph rechtop, zijn woorden eronder; dezelfde randen en tonen als de cirkel.'
