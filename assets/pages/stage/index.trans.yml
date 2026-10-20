@@ -162,7 +162,7 @@ fi:
       description: 'Pinta liikkuu vain sen linjaa pitkin (x-akseli), kun prosessi lukee. Raahaa pintaa liikuttaaksesi sitä, korttia liikuttaaksesi sitä; Shift ja raahaa valitsee useita; nuolet liikuttavat valittuja, Poista poistaa ne, Ctrl+Z kumoaa ja Ctrl+Shift+Z tekee sen uudelleen.'
 
 ru:
-  page_title: Этап
+  page_title: 'Сцена'
   document_title: 'Интерактивная диаграмма — временная шкала'
   page_description: 'Интерактивное полотно для диаграмм: элементы выбираются, перетаскиваются на сетку, связываются и удаляются, каждое изменение можно отменить — здесь в виде временной шкалы.'
   page_icon: 'ph:bold/flow-arrow'
@@ -195,7 +195,7 @@ es:
       description: 'La superficie se mueve solo a lo largo de su línea (eje x), a medida que un proceso lee. Arrastra la superficie para moverla, una tarjeta para moverla; Shift y arrastrar selecciona varios; las flechas mueven los seleccionados, Suprimir los elimina, Ctrl+Z deshace y Ctrl+Shift+Z lo vuelve a hacer.'
 
 it:
-  page_title: Fase
+  page_title: 'Scena'
   document_title: 'Canvas del diagramma interattivo — una timeline'
   page_description: 'Una superficie interattiva per i diagrammi: elementi selezionati, trascinati su una griglia, collegati e rimossi, ogni modifica annullabile — qui come linea del tempo.'
   page_icon: 'ph:bold/flow-arrow'
@@ -217,7 +217,7 @@ pt_BR:
       description: 'A superfície se move ao longo de sua linha apenas (eixo x), conforme um processo lê. Arraste a superfície para movê-la, um cartão para movê-lo; Shift e arrastar selecionam vários; as setas movem os selecionados, Delete os remove, Ctrl+Z desfaz e Ctrl+Shift+Z refaz.'
 
 tr:
-  page_title: Aşama
+  page_title: 'Sahne'
   document_title: 'Etkileşimli diyagram tuvali — bir zaman çizelgesi'
   page_description: 'Diyagramlar için etkileşimli bir tuval: öğeler seçilir, ızgaraya sürüklenir, bağlanır ve silinir, her değişiklik geri alınabilir — burada bir zaman çizelgesi olarak.'
   page_icon: 'ph:bold/flow-arrow'
