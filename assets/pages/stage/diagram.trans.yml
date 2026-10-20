@@ -1,11 +1,13 @@
 en:
   page_title: Diagram
+  page_description: "The interactive stage moving freely in both directions: elements laid out, linked and rearranged as a diagram rather than a line."
   page_icon: ph:bold/graph
   intro: >-
     The same stage moved every way (axis both): a diagram rather than a line.
 
 fr:
   page_title: Schéma
+  page_description: "La surface interactive libre dans les deux directions : des éléments disposés, reliés et réorganisés en diagramme plutôt qu'en ligne."
   page_icon: ph:bold/graph
   intro: >-
     La même scène, déplacée dans tous les sens (axe both) : un schéma plutôt
@@ -13,105 +15,126 @@ fr:
 
 zh:
   page_title: 图表
+  page_description: "可在两个方向自由移动的交互式画布：元素以图表而非直线的方式布置、连接和重新排列。"
   page_icon: 'ph:bold/graph'
   intro: 相同的阶段在各个方向移动（两个轴）：一个图表而不是一条线。
 
 ar:
   page_title: مخطط
+  page_description: "اللوحة التفاعلية تتحرك بحرية في الاتجاهين: عناصر تُرتّب وتُربط ويُعاد تنظيمها كمخطط لا كخط."
   page_icon: 'ph:bold/graph'
   intro: 'المرحلة نفسها تتحرك في كل الاتجاهات (المحورين): مخطط بدلاً من خط.'
 
 hi:
   page_title: आरेख
+  page_description: "दोनों दिशाओं में मुक्त रूप से चलने वाला इंटरैक्टिव कैनवास: तत्व एक रेखा के बजाय आरेख के रूप में रखे, जोड़े और पुनर्व्यवस्थित किए जाते हैं।"
   page_icon: 'ph:bold/graph'
   intro: 'एक ही चरण हर दिशा में चला (दोनों अक्ष): यह एक आरेख है, रेखा नहीं।'
 
 he:
   page_title: דיאגרמה
+  page_description: "המשטח האינטראקטיבי נע בחופשיות בשני הכיוונים: רכיבים מסודרים, מקושרים ומאורגנים מחדש כתרשים ולא כקו."
   page_icon: 'ph:bold/graph'
   intro: 'השלב הזה זז בכל כיוון (צירים גם): דיאגרמה ולא קו.'
 
 fa:
   page_title: نمودار
+  page_description: "بوم تعاملی که در هر دو جهت آزادانه حرکت می‌کند: عناصر به‌جای یک خط، به شکل نمودار چیده، وصل و جابه‌جا می‌شوند."
   page_icon: 'ph:bold/graph'
   intro: 'مرحله مشابه به هر سمت حرکت می‌کند (محورها هر دو): یک نمودار به جای یک خط.'
 
 ur:
   page_title: نقشہ
+  page_description: "دونوں سمتوں میں آزادانہ حرکت کرنے والا انٹرایکٹو کینوس: عناصر لکیر کے بجائے خاکے کی صورت میں رکھے، جوڑے اور ترتیب دیے جاتے ہیں۔"
   page_icon: 'ph:bold/graph'
   intro: 'ایک ہی مرحلہ ہر طرف منتقل ہوا (دونوں محور): ایک خط کی بجائے ایک نقشہ.'
 
 ja:
   page_title: 図
+  page_description: "縦横どちらにも自由に動くインタラクティブなキャンバス。要素を一直線ではなく図として配置し、つなぎ、並べ替えます。"
   page_icon: 'ph:bold/graph'
   intro: すべての方向に移動する同じステージ（両軸）：直線ではなく図。
 
 ko:
   page_title: 다이어그램
+  page_description: "양방향으로 자유롭게 움직이는 인터랙티브 캔버스: 요소를 한 줄이 아닌 다이어그램으로 배치하고 연결하고 재배열합니다."
   page_icon: 'ph:bold/graph'
   intro: '모든 방향으로 이동하는 동일한 단계(축 모두): 선보다는 다이어그램.'
 
 bn:
   page_title: ডায়াগ্রাম
+  page_description: "দুই দিকেই মুক্তভাবে চলা ইন্টারঅ্যাকটিভ ক্যানভাস: উপাদানগুলো রেখার বদলে ডায়াগ্রাম হিসেবে সাজানো, যুক্ত ও পুনর্বিন্যস্ত।"
   page_icon: 'ph:bold/graph'
   intro: 'একই স্তর প্রতিটি পথে সরানো হয়েছে (উভয় অক্ষ): একটি রেখার পরিবর্তে একটি ডায়াগ্রাম।'
 
 th:
   page_title: แผนภาพ
+  page_description: "พื้นที่โต้ตอบที่เลื่อนได้อิสระทั้งสองทิศทาง: จัดวาง เชื่อมโยง และจัดเรียงองค์ประกอบใหม่เป็นไดอะแกรมแทนที่จะเป็นเส้นตรง"
   page_icon: 'ph:bold/graph'
   intro: 'เวทีเดียวกันเคลื่อนที่ได้ทุกทาง (ตามแกนทั้งสอง): แผนภาพมากกว่าที่จะเป็นเส้น.'
 
 de:
   page_title: Diagramm
+  page_description: "Die interaktive Fläche, frei in beide Richtungen beweglich: Elemente angeordnet, verbunden und umgestellt — als Diagramm statt als Linie."
   page_icon: 'ph:bold/graph'
   intro: 'Die gleiche Bühne bewegt sich in alle Richtungen (Achse beides): ein Diagramm anstelle einer Linie.'
 
 fi:
   page_title: Kaavio
+  page_description: "Interaktiivinen alusta, joka liikkuu vapaasti molempiin suuntiin: elementit asetellaan, yhdistetään ja järjestellään kaavioksi eikä viivaksi."
   page_icon: 'ph:bold/graph'
   intro: 'Sama vaihe siirtyy joka suuntaan (akselit molemmat): kaavio ennemmin kuin viiva.'
 
 ru:
   page_title: Диаграмма
+  page_description: "Интерактивное полотно, свободно движущееся в обе стороны: элементы расставляются, связываются и перестраиваются как диаграмма, а не линия."
   page_icon: 'ph:bold/graph'
   intro: 'Тот же этап, перемещаемый в любом направлении (по обеим осям): диаграмма, а не линия.'
 
 pl:
   page_title: Diagram
+  page_description: "Interaktywna powierzchnia poruszająca się swobodnie w obu kierunkach: elementy rozmieszczane, łączone i przestawiane jako diagram, a nie linia."
   page_icon: 'ph:bold/graph'
   intro: 'Ta sama scena przesunięta w każdą stronę (osią obie): diagram zamiast linii.'
 
 es:
   page_title: Diagrama
+  page_description: "El lienzo interactivo moviéndose libremente en ambas direcciones: elementos dispuestos, enlazados y reordenados como diagrama y no como línea."
   page_icon: 'ph:bold/graph'
   intro: 'El mismo escenario se mueve en todas direcciones (ejes ambos): un diagrama en lugar de una línea.'
 
 it:
   page_title: Diagramma
+  page_description: "La superficie interattiva libera di muoversi in entrambe le direzioni: elementi disposti, collegati e riorganizzati come diagramma anziché come linea."
   page_icon: 'ph:bold/graph'
   intro: 'La stessa fase si muove in ogni direzione (asse entrambi): un diagramma piuttosto che una linea.'
 
 pt_BR:
   page_title: Diagrama
+  page_description: "A tela interativa movendo-se livremente nas duas direções: elementos dispostos, ligados e reorganizados como diagrama e não como linha."
   page_icon: 'ph:bold/graph'
   intro: 'O mesmo estágio movido de todas as formas (eixo ambos): um diagrama em vez de uma linha.'
 
 tr:
   page_title: Diyagram
+  page_description: "Her iki yönde serbestçe hareket eden etkileşimli tuval: öğeler bir çizgi yerine diyagram olarak yerleştirilir, bağlanır ve yeniden düzenlenir."
   page_icon: 'ph:bold/graph'
   intro: 'Aynı aşama her yönde hareket etti (her iki eksen): bir çizgi yerine bir diyagram.'
 
 vi:
   page_title: 'Sơ đồ'
+  page_description: "Khung vẽ tương tác di chuyển tự do theo cả hai chiều: các phần tử được bố trí, liên kết và sắp xếp lại thành sơ đồ thay vì một đường thẳng."
   page_icon: 'ph:bold/graph'
   intro: 'Giai đoạn giống nhau di chuyển theo mọi hướng (trục cả hai): một sơ đồ hơn là một đường thẳng.'
 
 id:
   page_title: Diagram
+  page_description: "Kanvas interaktif yang bergerak bebas ke dua arah: elemen ditata, dihubungkan, dan disusun ulang sebagai diagram, bukan garis."
   page_icon: 'ph:bold/graph'
   intro: 'Tahap yang sama bergerak ke segala arah (sumbu kedua): sebuah diagram daripada sebuah garis.'
 
 nl:
   page_title: Diagram
+  page_description: "Het interactieve canvas, vrij in beide richtingen: elementen geplaatst, verbonden en herschikt als diagram in plaats van als lijn."
   page_icon: 'ph:bold/graph'
   intro: 'Dezelfde fase die in elke richting beweegt (assen beiden): een diagram in plaats van een lijn.'
