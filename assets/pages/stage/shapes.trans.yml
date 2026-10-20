@@ -30,36 +30,25 @@ en:
 
 fr:
   page_title: Formes
-  page_description: "Les figures avec lesquelles on dessine les diagrammes — boîtes pour les étapes, cercles pour les événements, losanges pour les choix — stylées une fois sur les tokens du design system."
-  page_icon: ph:bold/shapes
-  intro: >-
-    Les figures avec lesquelles se dessine un schéma sur la scène
-    (stage-shape) : ce qu'elles signifient appartient à la page — un processus,
-    un workflow, un plan —, leur apparence est dite une fois, sur les tokens du
-    design system. Chacune remplit l'élément que la scène lui donne.
+  document_title: 'Formes de diagramme pour les étapes, événements et choix'
+  page_description: 'Les figures avec lesquelles on dessine les diagrammes — boîtes pour les étapes, cercles pour les événements, losanges pour les choix — stylées une fois sur les tokens du design system.'
+  page_icon: 'ph:bold/shapes'
+  intro: "Les figures avec lesquelles se dessine un schéma sur la scène (stage-shape) : ce qu'elles signifient appartient à la page — un processus, un workflow, un plan —, leur apparence est dite une fois, sur les tokens du design system. Chacune remplit l'élément que la scène lui donne."
   section:
     box:
-      title: La boîte
-      description: >-
-        Un bloc du design system au bord tracé : ce qu'il est dans son coin
-        (block--mark), ses mots au milieu, trois lignes au plus. Plus
-        épais (stage-shape--thick) pour celui qui contient plus que lui-même.
+      title: 'La boîte'
+      description: "Un bloc du design system au bord tracé : ce qu'il est dans son coin (block--mark), ses mots au milieu, trois lignes au plus. Plus épais (stage-shape--thick) pour celui qui contient plus que lui-même."
     circle:
-      title: Le cercle
-      description: >-
-        Là où quelque chose commence, attend ou finit : un glyphe dedans, ses
-        mots dessous. Son bord plus épais (stage-shape--thick) ou doublé
-        (stage-shape--double), dans une teinte (stage-shape--tone-success,
-        -warning, -error, -info).
+      title: 'Le cercle'
+      description: 'Là où quelque chose commence, attend ou finit : un glyphe dedans, ses mots dessous. Son bord plus épais (stage-shape--thick) ou doublé (stage-shape--double), dans une teinte (stage-shape--tone-success, -warning, -error, -info).'
     diamond:
-      title: Le losange
-      description: >-
-        Là où le chemin se divise : le carré tourné, son glyphe droit, ses mots
-        dessous ; les mêmes bords et teintes que le cercle.
+      title: 'Le losange'
+      description: 'Là où le chemin se divise : le carré tourné, son glyphe droit, ses mots dessous ; les mêmes bords et teintes que le cercle.'
 
 zh:
   page_title: 形状
-  page_description: "绘制图表所用的图形——方框表示步骤、圆形表示事件、菱形表示选择——基于设计系统的令牌统一定义样式。"
+  document_title: 步骤、事件和选择的图形
+  page_description: 绘制图表所用的图形——方框表示步骤、圆形表示事件、菱形表示选择——基于设计系统的令牌统一定义样式。
   page_icon: 'ph:bold/shapes'
   intro: 舞台上绘制图表的图形（舞台形状）：它们所代表的是页面的——一个过程，一个工作流程，一个计划——，它们的外观在设计系统的标记中被提及。每个图形填充了舞台给予它的元素。
   section:
@@ -75,7 +64,8 @@ zh:
 
 ar:
   page_title: الأشكال
-  page_description: "الأشكال التي تُرسم بها المخططات — صناديق للخطوات، دوائر للأحداث، معيّنات للخيارات — منسّقة مرة واحدة على رموز نظام التصميم."
+  document_title: 'أشكال المخططات للخطوات والأحداث والاختيارات'
+  page_description: 'الأشكال التي تُرسم بها المخططات — صناديق للخطوات، دوائر للأحداث، معيّنات للخيارات — منسّقة مرة واحدة على رموز نظام التصميم.'
   page_icon: 'ph:bold/shapes'
   intro: 'الأشكال التي يُرسم بها المخطط على المسرح (شكل-المسرح): ما تعنيه هو صفحة — عملية، سير عمل، خطة —، كيف تبدو يُقال مرة واحدة، على رموز نظام التصميم. كل واحدة تملأ العنصر الذي يمنحه إياه المسرح.'
   section:
@@ -91,7 +81,8 @@ ar:
 
 hi:
   page_title: आकृतियाँ
-  page_description: "वे आकृतियाँ जिनसे आरेख बनते हैं — चरणों के लिए बॉक्स, घटनाओं के लिए वृत्त, विकल्पों के लिए हीरे — डिज़ाइन सिस्टम के टोकन पर एक बार स्टाइल की गईं।"
+  document_title: 'चरणों, घटनाओं और विकल्पों के लिए आरेख आकृतियाँ'
+  page_description: 'वे आकृतियाँ जिनसे आरेख बनते हैं — चरणों के लिए बॉक्स, घटनाओं के लिए वृत्त, विकल्पों के लिए हीरे — डिज़ाइन सिस्टम के टोकन पर एक बार स्टाइल की गईं।'
   page_icon: 'ph:bold/shapes'
   intro: 'जो आकृतियाँ एक आरेख पर मंच पर खींची जाती हैं (मंच-आकृति): उनका अर्थ है पृष्ठ का — एक प्रक्रिया, एक कार्यप्रवाह, एक योजना —, वे कैसी दिखती हैं यह डिज़ाइन सिस्टम के टोकनों पर एक बार कहा जाता है। हर एक वह तत्व भरता है जो मंच उसे देता है।'
   section:
@@ -107,7 +98,8 @@ hi:
 
 he:
   page_title: צורות
-  page_description: "הצורות שבהן מציירים תרשימים — תיבות לשלבים, עיגולים לאירועים, מעוינים לבחירות — מעוצבות פעם אחת על הטוקנים של מערכת העיצוב."
+  document_title: 'צורות דיאגרמה עבור צעדים, אירועים ובחירות'
+  page_description: 'הצורות שבהן מציירים תרשימים — תיבות לשלבים, עיגולים לאירועים, מעוינים לבחירות — מעוצבות פעם אחת על הטוקנים של מערכת העיצוב.'
   page_icon: 'ph:bold/shapes'
   intro: 'הדמויות שעםן מצוייר דיאגרמה על הבמה (צורת-במה): מה שהן מייצגות זה מה שהדף מייצג — תהליך, זרימת עבודה, תכנית —, איך שהן נראות נאמר פעם אחת, לפי הטוקנים של מערכת העיצוב. כל אחת ממלאה את האלמנט שהבמה נותנת לה.'
   section:
@@ -123,7 +115,8 @@ he:
 
 fa:
   page_title: اشکال
-  page_description: "شکل‌هایی که نمودارها با آن‌ها رسم می‌شوند — جعبه برای گام‌ها، دایره برای رویدادها، لوزی برای انتخاب‌ها — یک‌بار بر پایه توکن‌های سیستم طراحی سبک‌دهی شده‌اند."
+  document_title: 'اشکال دیاگرام برای مراحل، رویدادها و انتخاب‌ها'
+  page_description: 'شکل‌هایی که نمودارها با آن‌ها رسم می‌شوند — جعبه برای گام‌ها، دایره برای رویدادها، لوزی برای انتخاب‌ها — یک‌بار بر پایه توکن‌های سیستم طراحی سبک‌دهی شده‌اند.'
   page_icon: 'ph:bold/shapes'
   intro: 'شکل‌هایی که یک نمودار روی صحنه با آن‌ها ترسیم شده است (شکل-صحنه): آن‌ها به معنای فرایند، جریان کار، یا برنامه صفحه هستند؛ نحوه‌ی ظاهر آن‌ها یک‌بار در توکن‌های سیستم طراحی بیان می‌شود. هر یک از آن‌ها عنصری را که صحنه به آن می‌دهد پر می‌کند.'
   section:
@@ -139,7 +132,8 @@ fa:
 
 ur:
   page_title: اشکال
-  page_description: "وہ اشکال جن سے خاکے بنتے ہیں — مراحل کے لیے خانے، واقعات کے لیے دائرے، انتخاب کے لیے معین — ڈیزائن سسٹم کے ٹوکنز پر ایک بار اسٹائل کی گئیں۔"
+  document_title: 'اقدامات، واقعات اور انتخاب کے لئے خاکہ اشکال'
+  page_description: 'وہ اشکال جن سے خاکے بنتے ہیں — مراحل کے لیے خانے، واقعات کے لیے دائرے، انتخاب کے لیے معین — ڈیزائن سسٹم کے ٹوکنز پر ایک بار اسٹائل کی گئیں۔'
   page_icon: 'ph:bold/shapes'
   intro: 'جو شکلیں ایک ڈایاگرام پر اسٹیج پر بنائی جاتی ہیں (اسٹیج-شکل): ان کا مطلب اس صفحے کا ہے — ایک عمل، ایک ورک فلو، ایک منصوبہ —، ان کی شکلیں ایک بار کہا جاتا ہے، ڈیزائن سسٹم کے ٹوکنز پر۔ ہر ایک عنصر کو بھر دیتا ہے جو اسٹیج اسے دیتا ہے۔'
   section:
@@ -155,7 +149,8 @@ ur:
 
 ja:
   page_title: 図形
-  page_description: "図を描くための図形。ステップは四角、イベントは円、分岐はひし形。デザインシステムのトークンで一度だけスタイルを定義。"
+  document_title: ステップ、イベント、選択のための図形
+  page_description: 図を描くための図形。ステップは四角、イベントは円、分岐はひし形。デザインシステムのトークンで一度だけスタイルを定義。
   page_icon: 'ph:bold/shapes'
   intro: ステージに描かれた図の形（ステージ形状）：それらが意味するのはページのプロセス、ワークフロー、計画であり、見た目はデザインシステムのトークンで一度言及される。各図形はステージが与える要素を埋める。
   section:
@@ -171,7 +166,8 @@ ja:
 
 ko:
   page_title: 도형
-  page_description: "다이어그램을 그리는 도형 — 단계는 상자, 이벤트는 원, 선택은 마름모 — 디자인 시스템 토큰으로 한 번에 스타일을 정의합니다."
+  document_title: '단계, 이벤트 및 선택을 위한 도형 다이어그램'
+  page_description: '다이어그램을 그리는 도형 — 단계는 상자, 이벤트는 원, 선택은 마름모 — 디자인 시스템 토큰으로 한 번에 스타일을 정의합니다.'
   page_icon: 'ph:bold/shapes'
   intro: '무대에서 그려진 도형으로 구성된 도표: 그 의미는 페이지의 — 프로세스, 워크플로우, 계획 — 에 있으며, 그 모양은 디자인 시스템의 토큰에 한 번 언급됩니다. 각 도형은 무대가 제공하는 요소를 채웁니다.'
   section:
@@ -187,7 +183,8 @@ ko:
 
 bn:
   page_title: আকৃতি
-  page_description: "যে আকারগুলো দিয়ে ডায়াগ্রাম আঁকা হয় — ধাপের জন্য বাক্স, ঘটনার জন্য বৃত্ত, পছন্দের জন্য রম্বস — ডিজাইন সিস্টেমের টোকেনে একবারই স্টাইল করা।"
+  document_title: 'ধাপ, ঘটনা এবং পছন্দের জন্য আকারের ডায়াগ্রাম'
+  page_description: 'যে আকারগুলো দিয়ে ডায়াগ্রাম আঁকা হয় — ধাপের জন্য বাক্স, ঘটনার জন্য বৃত্ত, পছন্দের জন্য রম্বস — ডিজাইন সিস্টেমের টোকেনে একবারই স্টাইল করা।'
   page_icon: 'ph:bold/shapes'
   intro: 'মঞ্চে একটি ডায়াগ্রামে আঁকা আকারগুলি (মঞ্চ-আকৃতি): এগুলোর অর্থ হল পৃষ্ঠার — একটি প্রক্রিয়া, একটি কার্যপ্রবাহ, একটি পরিকল্পনা —, এগুলোর চেহারা ডিজাইন সিস্টেমের টোকেনগুলিতে একবার বলা হয়। প্রতিটি একক মঞ্চের দ্বারা প্রদত্ত উপাদান পূর্ণ করে।'
   section:
@@ -203,7 +200,8 @@ bn:
 
 th:
   page_title: รูปทรง
-  page_description: "รูปทรงที่ใช้วาดไดอะแกรม — กล่องแทนขั้นตอน วงกลมแทนเหตุการณ์ สี่เหลี่ยมขนมเปียกปูนแทนทางเลือก — กำหนดสไตล์ครั้งเดียวบนโทเคนของดีไซน์ซิสเต็ม"
+  document_title: 'รูปร่างของไดอะแกรมสำหรับขั้นตอน เหตุการณ์ และตัวเลือก'
+  page_description: 'รูปทรงที่ใช้วาดไดอะแกรม — กล่องแทนขั้นตอน วงกลมแทนเหตุการณ์ สี่เหลี่ยมขนมเปียกปูนแทนทางเลือก — กำหนดสไตล์ครั้งเดียวบนโทเคนของดีไซน์ซิสเต็ม'
   page_icon: 'ph:bold/shapes'
   intro: 'รูปทรงที่แสดงในแผนภาพบนเวที (stage-shape): ความหมายคือหน้าของมัน — กระบวนการ, เวิร์กโฟลว์, แผน — รูปลักษณ์ที่กล่าวถึงเพียงครั้งเดียวในโทเค็นของระบบการออกแบบ แต่ละอันเติมองค์ประกอบที่เวทีมอบให้'
   section:
@@ -219,7 +217,8 @@ th:
 
 de:
   page_title: Formen
-  page_description: "Die Figuren, mit denen Diagramme gezeichnet werden — Kästen für Schritte, Kreise für Ereignisse, Rauten für Entscheidungen — einmal auf den Tokens des Designsystems gestaltet."
+  document_title: 'Diagrammformen für Schritte, Ereignisse und Entscheidungen'
+  page_description: 'Die Figuren, mit denen Diagramme gezeichnet werden — Kästen für Schritte, Kreise für Ereignisse, Rauten für Entscheidungen — einmal auf den Tokens des Designsystems gestaltet.'
   page_icon: 'ph:bold/shapes'
   intro: 'Die Figuren, mit denen ein Diagramm auf der Bühne gezeichnet wird (Bühnenform): was sie bedeuten, ist das der Seite — ein Prozess, ein Workflow, ein Plan —, wie sie aussehen, wird einmal gesagt, auf den Tokens des Designs. Jede füllt das Element, das die Bühne ihr gibt.'
   section:
@@ -235,7 +234,8 @@ de:
 
 fi:
   page_title: Muodot
-  page_description: "Kuviot, joilla kaaviot piirretään — laatikot vaiheille, ympyrät tapahtumille, vinoneliöt valinnoille — muotoiltuina kerran design systemin tokeneilla."
+  document_title: 'Kaaviokuvia vaiheista, tapahtumista ja valinnoista'
+  page_description: 'Kuviot, joilla kaaviot piirretään — laatikot vaiheille, ympyrät tapahtumille, vinoneliöt valinnoille — muotoiltuina kerran design systemin tokeneilla.'
   page_icon: 'ph:bold/shapes'
   intro: 'Kuvio, jonka avulla diagrammi lavalla on piirretty (lavamuoto): mitä ne tarkoittavat, on sivun — prosessi, työnkulku, suunnitelma —, miltä ne näyttävät sanotaan kerran, suunnittelujärjestelmän tunnuksilla. Jokainen täyttää elementin, jonka lava sille antaa.'
   section:
@@ -251,7 +251,8 @@ fi:
 
 ru:
   page_title: Фигуры
-  page_description: "Фигуры, из которых рисуются диаграммы — прямоугольники для шагов, круги для событий, ромбы для выбора — оформленные один раз на токенах дизайн-системы."
+  document_title: 'Фигуры диаграмм для шагов, событий и выборов'
+  page_description: 'Фигуры, из которых рисуются диаграммы — прямоугольники для шагов, круги для событий, ромбы для выбора — оформленные один раз на токенах дизайн-системы.'
   page_icon: 'ph:bold/shapes'
   intro: 'Фигуры, с помощью которых на сцене рисуется диаграмма (stage-shape): что они означают — это страница, процесс, рабочий процесс, план —, как они выглядят, говорится один раз, на токенах системы дизайна. Каждый из них заполняет элемент, который дает ему сцена.'
   section:
@@ -267,7 +268,8 @@ ru:
 
 pl:
   page_title: Kształty
-  page_description: "Figury, którymi rysuje się diagramy — prostokąty dla kroków, koła dla zdarzeń, romby dla wyborów — ostylowane raz na tokenach design systemu."
+  document_title: 'Kształty diagramów dla kroków, zdarzeń i wyborów'
+  page_description: 'Figury, którymi rysuje się diagramy — prostokąty dla kroków, koła dla zdarzeń, romby dla wyborów — ostylowane raz na tokenach design systemu.'
   page_icon: 'ph:bold/shapes'
   intro: 'Figury, z których rysowany jest diagram na scenie (kształt-sceniczny): co oznaczają, to strona — proces, przepływ pracy, plan —, jak wyglądają, jest powiedziane raz, na tokenach systemu projektowego. Każdy z nich wypełnia element, który mu daje scena.'
   section:
@@ -283,7 +285,8 @@ pl:
 
 es:
   page_title: Formas
-  page_description: "Las figuras con que se dibujan los diagramas — cajas para pasos, círculos para eventos, rombos para decisiones — con estilo definido una vez sobre los tokens del sistema de diseño."
+  document_title: 'Formas de diagrama para pasos, eventos y elecciones'
+  page_description: 'Las figuras con que se dibujan los diagramas — cajas para pasos, círculos para eventos, rombos para decisiones — con estilo definido una vez sobre los tokens del sistema de diseño.'
   page_icon: 'ph:bold/shapes'
   intro: 'Las figuras con las que se dibuja un diagrama en el escenario (forma-escenario): lo que significan es el proceso de la página, un flujo de trabajo, un plan; cómo se ven se dice una vez, en los tokens del sistema de diseño. Cada una llena el elemento que el escenario le otorga.'
   section:
@@ -299,7 +302,8 @@ es:
 
 it:
   page_title: Forme
-  page_description: "Le figure con cui si disegnano i diagrammi — riquadri per i passaggi, cerchi per gli eventi, rombi per le scelte — stilizzate una volta sui token del design system."
+  document_title: 'Forme del diagramma per passi, eventi e scelte'
+  page_description: 'Le figure con cui si disegnano i diagrammi — riquadri per i passaggi, cerchi per gli eventi, rombi per le scelte — stilizzate una volta sui token del design system.'
   page_icon: 'ph:bold/shapes'
   intro: "Le figure con cui è disegnato un diagramma sulla scena (forma-scena): ciò che significano è il contenuto della pagina — un processo, un flusso di lavoro, un piano —, come appaiono è detto una volta, sui token del sistema di design. Ognuno riempie l'elemento che la scena gli attribuisce."
   section:
@@ -315,7 +319,8 @@ it:
 
 pt_BR:
   page_title: Formas
-  page_description: "As figuras com que se desenham diagramas — caixas para etapas, círculos para eventos, losangos para escolhas — estilizadas uma vez sobre os tokens do design system."
+  document_title: 'Formas de diagrama para etapas, eventos e escolhas'
+  page_description: 'As figuras com que se desenham diagramas — caixas para etapas, círculos para eventos, losangos para escolhas — estilizadas uma vez sobre os tokens do design system.'
   page_icon: 'ph:bold/shapes'
   intro: 'As figuras com as quais um diagrama na página é desenhado (forma-do-palco): o que significam é o da página — um processo, um fluxo de trabalho, um plano —, como elas se parecem é dito uma vez, nos tokens do sistema de design. Cada uma preenche o elemento que o palco lhe dá.'
   section:
@@ -331,6 +336,7 @@ pt_BR:
 
 tr:
   page_title: Şekiller
+  document_title: 'Adımlar, olaylar ve seçimler için diyagram şekilleri'
   page_description: "Diyagramların çizildiği şekiller — adımlar için kutular, olaylar için daireler, seçimler için eşkenar dörtgenler — tasarım sisteminin token'ları üzerinde bir kez biçimlendirilmiş."
   page_icon: 'ph:bold/shapes'
   intro: "Bir diyagramın sahnede çizildiği figürler (sahne-şekli): ne anlama geldiği sayfanın — bir süreç, bir iş akışı, bir plan —, nasıl göründüğü ise bir kez, tasarım sisteminin token'larında söylenir. Her biri, sahnenin verdiği öğeyi doldurur."
@@ -347,7 +353,8 @@ tr:
 
 vi:
   page_title: 'Hình dạng'
-  page_description: "Các hình dùng để vẽ sơ đồ — hộp cho bước, hình tròn cho sự kiện, hình thoi cho lựa chọn — được tạo kiểu một lần trên token của design system."
+  document_title: 'Hình dạng sơ đồ cho các bước, sự kiện và lựa chọn'
+  page_description: 'Các hình dùng để vẽ sơ đồ — hộp cho bước, hình tròn cho sự kiện, hình thoi cho lựa chọn — được tạo kiểu một lần trên token của design system.'
   page_icon: 'ph:bold/shapes'
   intro: 'Các hình ảnh mà một sơ đồ trên sân khấu được vẽ với (hình dạng sân khấu): điều chúng có nghĩa là trang này — một quy trình, một luồng công việc, một kế hoạch —, cách chúng trông như thế nào được nói đến một lần, trên các mã thông báo của hệ thống thiết kế. Mỗi hình lấp đầy phần tử mà sân khấu cung cấp cho nó.'
   section:
@@ -363,7 +370,8 @@ vi:
 
 id:
   page_title: Bentuk
-  page_description: "Bentuk-bentuk untuk menggambar diagram — kotak untuk langkah, lingkaran untuk peristiwa, belah ketupat untuk pilihan — ditata sekali pada token design system."
+  document_title: 'Bentuk diagram untuk langkah, peristiwa, dan pilihan'
+  page_description: 'Bentuk-bentuk untuk menggambar diagram — kotak untuk langkah, lingkaran untuk peristiwa, belah ketupat untuk pilihan — ditata sekali pada token design system.'
   page_icon: 'ph:bold/shapes'
   intro: 'Angka-angka yang digambar pada diagram di panggung (bentuk-panggung): apa artinya adalah halaman ini — sebuah proses, alur kerja, rencana —, bagaimana penampilannya dikatakan sekali, pada token sistem desain. Masing-masing mengisi elemen yang diberikan panggung.'
   section:
@@ -379,7 +387,8 @@ id:
 
 nl:
   page_title: Vormen
-  page_description: "De vormen waarmee diagrammen getekend worden — vakken voor stappen, cirkels voor gebeurtenissen, ruiten voor keuzes — eenmaal gestyled op de tokens van het designsysteem."
+  document_title: 'Diagramvormen voor stappen, evenementen en keuzes'
+  page_description: 'De vormen waarmee diagrammen getekend worden — vakken voor stappen, cirkels voor gebeurtenissen, ruiten voor keuzes — eenmaal gestyled op de tokens van het designsysteem.'
   page_icon: 'ph:bold/shapes'
   intro: "De figuren waarmee een diagram op het podium is getekend (podium-vorm): wat ze betekenen is de pagina's — een proces, een workflow, een plan —, hoe ze eruitzien wordt eenmaal gezegd, op de tokens van het ontwerpsysteem. Elk vult het element dat het podium geeft."
   section:

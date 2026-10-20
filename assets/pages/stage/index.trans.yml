@@ -20,27 +20,19 @@ en:
 
 fr:
   page_title: Scène
-  page_description: "Une surface interactive pour les diagrammes : des éléments sélectionnés, glissés sur une grille, reliés et supprimés, chaque changement annulable — ici en frise chronologique."
-  page_icon: ph:bold/flow-arrow
-  intro: >-
-    symfony-stage : une surface que le pointeur déplace et des éléments posés
-    dessus — choisis, glissés sur une grille, reliés, retirés, chaque changement
-    annulé et refait. La scène dessine les éléments que la page lui donne et
-    ignore ce qu'ils signifient : chacun ici est une de ses figures
-    (stage-shape) — une boîte pour une étape, un cercle pour un événement, un
-    losange pour un choix.
+  document_title: 'Toile de diagramme interactive — une chronologie'
+  page_description: 'Une surface interactive pour les diagrammes : des éléments sélectionnés, glissés sur une grille, reliés et supprimés, chaque changement annulable — ici en frise chronologique.'
+  page_icon: 'ph:bold/flow-arrow'
+  intro: "symfony-stage : une surface que le pointeur déplace et des éléments posés dessus — choisis, glissés sur une grille, reliés, retirés, chaque changement annulé et refait. La scène dessine les éléments que la page lui donne et ignore ce qu'ils signifient : chacun ici est une de ses figures (stage-shape) — une boîte pour une étape, un cercle pour un événement, un losange pour un choix."
   section:
     timeline:
-      title: Une frise
-      description: >-
-        La surface ne se déplace que sur sa ligne (axe x), comme se lit un
-        processus. Glisser la surface la déplace, glisser une carte la déplace ;
-        Maj et glisser en choisit plusieurs ; les flèches déplacent les éléments
-        choisis, Suppr les retire, Ctrl+Z annule et Ctrl+Maj+Z refait.
+      title: 'Une frise'
+      description: 'La surface ne se déplace que sur sa ligne (axe x), comme se lit un processus. Glisser la surface la déplace, glisser une carte la déplace ; Maj et glisser en choisit plusieurs ; les flèches déplacent les éléments choisis, Suppr les retire, Ctrl+Z annule et Ctrl+Maj+Z refait.'
 
 zh:
   page_title: 舞台
-  page_description: "用于绘制图表的交互式画布：元素可选取、拖到网格上、连接和删除，每次修改都可撤销——这里以时间轴呈现。"
+  document_title: '交互式图表画布 — 时间线'
+  page_description: 用于绘制图表的交互式画布：元素可选取、拖到网格上、连接和删除，每次修改都可撤销——这里以时间轴呈现。
   page_icon: 'ph:bold/flow-arrow'
   intro: symfony-stage：一个指针移动的表面，上面放置了元素——可以选择、拖动到网格上、链接、移除，每个变化都可以撤销和重做。舞台绘制页面交给它的元素，对它们的意义一无所知：这里的每一个都是它的图形（舞台形状）——一个步骤的框，一个事件的圆，一个选择的菱形。
   section:
@@ -50,7 +42,8 @@ zh:
 
 ar:
   page_title: المسرح
-  page_description: "لوحة تفاعلية للمخططات: عناصر تُحدَّد وتُسحب على شبكة وتُربط وتُحذف، وكل تغيير قابل للتراجع — هنا على شكل خط زمني."
+  document_title: 'لوحة رسم تفاعلية — خط زمني'
+  page_description: 'لوحة تفاعلية للمخططات: عناصر تُحدَّد وتُسحب على شبكة وتُربط وتُحذف، وكل تغيير قابل للتراجع — هنا على شكل خط زمني.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: مساحة يتحرك عليها المؤشر وتوضع العناصر عليها — تُختار، تُسحب إلى شبكة، تُربط، تُزال، كل تغيير يُلغى ويُعاد مرة أخرى. المسرح يرسم العناصر التي تسلمها الصفحة ولا يعرف شيئًا عما تعنيه: كل واحدة هنا هي واحدة من أشكالها (stage-shape) — صندوق لخطوة، دائرة لحدث، ماسة لاختيار.'
   section:
@@ -60,7 +53,8 @@ ar:
 
 hi:
   page_title: स्टेज
-  page_description: "आरेखों के लिए एक इंटरैक्टिव कैनवास: तत्व चुने, ग्रिड पर खींचे, जोड़े और हटाए जाते हैं, हर बदलाव पूर्ववत किया जा सकता है — यहाँ एक टाइमलाइन के रूप में।"
+  document_title: 'इंटरएक्टिव आरेख कैनवास — एक टाइमलाइन'
+  page_description: 'आरेखों के लिए एक इंटरैक्टिव कैनवास: तत्व चुने, ग्रिड पर खींचे, जोड़े और हटाए जाते हैं, हर बदलाव पूर्ववत किया जा सकता है — यहाँ एक टाइमलाइन के रूप में।'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: एक सतह जहां संकेतक चलता है और तत्व रखे जाते हैं — चुने गए, एक ग्रिड पर खींचे गए, जोड़े गए, हटाए गए, हर परिवर्तन रद्द और फिर से किया गया। स्टेज उन तत्वों को खींचता है जो पृष्ठ उसे देता है और यह नहीं जानता कि उनका क्या मतलब है: यहां प्रत्येक तत्व इसके आकारों में से एक है (stage-shape) — एक कदम के लिए एक बॉक्स, एक घटना के लिए एक वृत्त, एक विकल्प के लिए एक हीरा।'
   section:
@@ -70,7 +64,8 @@ hi:
 
 he:
   page_title: במה
-  page_description: "משטח אינטראקטיבי לתרשימים: רכיבים נבחרים, נגררים על רשת, מקושרים ונמחקים, וכל שינוי ניתן לביטול — כאן בצורת ציר זמן."
+  document_title: 'קנבס דיאגרמה אינטראקטיבי — ציר זמן'
+  page_description: 'משטח אינטראקטיבי לתרשימים: רכיבים נבחרים, נגררים על רשת, מקושרים ונמחקים, וכל שינוי ניתן לביטול — כאן בצורת ציר זמן.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: משטח שעליו זז הסמן ואלמנטים מונחים עליו — נבחרים, נגררים לרשת, מקושרים, מוסרים, כל שינוי מבוטל ונעשה שוב. הבמה מציירת את האלמנטים שהדף מספק לה ואינה יודעת מה המשמעות שלהם: כל אחד כאן הוא אחד מדמויותיה (stage-shape) — תיבה עבור שלב, מעגל עבור אירוע, יהלום עבור בחירה.'
   section:
@@ -80,7 +75,8 @@ he:
 
 fa:
   page_title: صحنه
-  page_description: "بومی تعاملی برای نمودارها: عناصر انتخاب، روی شبکه کشیده، به هم وصل و حذف می‌شوند و هر تغییر قابل بازگشت است — اینجا به شکل خط زمانی."
+  document_title: 'بوم دیاگرام تعاملی — یک خط زمان'
+  page_description: 'بومی تعاملی برای نمودارها: عناصر انتخاب، روی شبکه کشیده، به هم وصل و حذف می‌شوند و هر تغییر قابل بازگشت است — اینجا به شکل خط زمانی.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: یک سطح که نشانگر بر روی آن حرکت می‌کند و عناصر بر روی آن قرار دارند — انتخاب شده، کشیده شده به یک شبکه، لینک شده، حذف شده، هر تغییر بازگشت و دوباره انجام می‌شود. صحنه عناصر را که صفحه به آن می‌دهد رسم می‌کند و هیچ چیزی از معنی آن‌ها نمی‌داند: هر یک از آن‌ها یکی از شکل‌های آن (stage-shape) است — یک جعبه برای یک مرحله، یک دایره برای یک رویداد، یک الماس برای یک انتخاب.'
   section:
@@ -90,7 +86,8 @@ fa:
 
 ur:
   page_title: اسٹیج
-  page_description: "خاکوں کے لیے ایک انٹرایکٹو کینوس: عناصر چنے، گرڈ پر گھسیٹے، جوڑے اور ہٹائے جاتے ہیں، ہر تبدیلی واپس لی جا سکتی ہے — یہاں ٹائم لائن کی صورت میں۔"
+  document_title: 'انٹرایکٹو ڈایاگرام کینوس — ایک وقت لائن'
+  page_description: 'خاکوں کے لیے ایک انٹرایکٹو کینوس: عناصر چنے، گرڈ پر گھسیٹے، جوڑے اور ہٹائے جاتے ہیں، ہر تبدیلی واپس لی جا سکتی ہے — یہاں ٹائم لائن کی صورت میں۔'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: ایک سطح جہاں اشارہ حرکت کرتا ہے اور عناصر اس پر رکھے جاتے ہیں — چنے جاتے ہیں، ایک گرڈ پر کھینچے جاتے ہیں، لنک کیے جاتے ہیں، ہٹائے جاتے ہیں، ہر تبدیلی کو واپس کیا جاتا ہے اور دوبارہ کیا جاتا ہے۔ اسٹیج وہ عناصر کھینچتا ہے جو صفحہ اسے دیتا ہے اور اس کے معنی کے بارے میں کچھ نہیں جانتا: یہاں ہر ایک اس کی شکلوں میں سے ایک ہے (stage-shape) — ایک قدم کے لیے ایک باکس، ایک واقعہ کے لیے ایک دائرہ، ایک انتخاب کے لیے ایک ہیرا۔'
   section:
@@ -100,7 +97,8 @@ ur:
 
 ja:
   page_title: ステージ
-  page_description: "図のためのインタラクティブなキャンバス。要素を選択し、グリッドにドラッグし、つなぎ、削除でき、すべての変更を元に戻せます。ここではタイムラインとして。"
+  document_title: 'インタラクティブダイアグラムキャンバス — タイムライン'
+  page_description: 図のためのインタラクティブなキャンバス。要素を選択し、グリッドにドラッグし、つなぎ、削除でき、すべての変更を元に戻せます。ここではタイムラインとして。
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: ポインタが移動する表面と、その上に配置された要素 — 選択、ドラッグしてグリッドに配置、リンク、削除、すべての変更を元に戻したり再実行したりします。ステージはページが渡した要素を描画し、それらが何を意味するのかは知りません: ここにあるそれぞれはその図形の1つ（ステージシェイプ） — ステップ用のボックス、イベント用の円、選択用のダイヤモンドです。'
   section:
@@ -110,7 +108,8 @@ ja:
 
 ko:
   page_title: 무대
-  page_description: "다이어그램용 인터랙티브 캔버스: 요소를 선택하고, 그리드에 끌어다 놓고, 연결하고, 삭제하며, 모든 변경을 되돌릴 수 있습니다 — 여기서는 타임라인으로."
+  document_title: '인터랙티브 다이어그램 캔버스 — 타임라인'
+  page_description: '다이어그램용 인터랙티브 캔버스: 요소를 선택하고, 그리드에 끌어다 놓고, 연결하고, 삭제하며, 모든 변경을 되돌릴 수 있습니다 — 여기서는 타임라인으로.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: 포인터가 이동하는 표면과 그 위에 배치된 요소들 — 선택, 끌어서 그리드에 놓기, 연결, 제거, 모든 변경 사항을 취소하고 다시 수행합니다. 무대는 페이지가 제공한 요소들을 그리며, 그 의미에 대해서는 전혀 알지 못합니다: 여기 있는 각 요소는 그 자체로 하나의 도형입니다 (stage-shape) — 단계에 대한 박스, 이벤트에 대한 원, 선택에 대한 다이아몬드입니다.'
   section:
@@ -120,7 +119,8 @@ ko:
 
 bn:
   page_title: দৃশ্য
-  page_description: "ডায়াগ্রামের জন্য একটি ইন্টারঅ্যাকটিভ ক্যানভাস: উপাদান বাছাই, গ্রিডে টেনে আনা, সংযুক্ত ও মুছে ফেলা যায়, প্রতিটি পরিবর্তন ফেরানো যায় — এখানে একটি টাইমলাইন হিসেবে।"
+  document_title: 'ইন্টারেকটিভ ডায়াগ্রাম ক্যানভাস — একটি সময়রেখা'
+  page_description: 'ডায়াগ্রামের জন্য একটি ইন্টারঅ্যাকটিভ ক্যানভাস: উপাদান বাছাই, গ্রিডে টেনে আনা, সংযুক্ত ও মুছে ফেলা যায়, প্রতিটি পরিবর্তন ফেরানো যায় — এখানে একটি টাইমলাইন হিসেবে।'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: একটি পৃষ্ঠভূমি যেখানে পয়েন্টারটি চলে এবং এতে উপাদানগুলি স্থাপন করা হয় — বাছাই করা, একটি গ্রিডে টানা, সংযুক্ত করা, মুছে ফেলা, প্রত্যেকটি পরিবর্তন ফিরিয়ে আনা এবং আবার করা। দৃশ্যটি পৃষ্ঠের দ্বারা দেওয়া উপাদানগুলি আঁকে এবং তাদের অর্থ সম্পর্কে কিছু জানে না: এখানে প্রতিটি একটি তার চিত্র (দৃশ্য-আকৃতি) — একটি পদক্ষেপের জন্য একটি বক্স, একটি ঘটনাসমূহের জন্য একটি বৃত্ত, একটি পছন্দের জন্য একটি হীরক।'
   section:
@@ -130,7 +130,8 @@ bn:
 
 th:
   page_title: เวที
-  page_description: "พื้นที่โต้ตอบสำหรับไดอะแกรม: เลือกองค์ประกอบ ลากลงกริด เชื่อมโยง และลบได้ ทุกการเปลี่ยนแปลงย้อนกลับได้ — ที่นี่ในรูปแบบไทม์ไลน์"
+  document_title: 'ผังภาพโต้ตอบ — เส้นเวลา'
+  page_description: 'พื้นที่โต้ตอบสำหรับไดอะแกรม: เลือกองค์ประกอบ ลากลงกริด เชื่อมโยง และลบได้ ทุกการเปลี่ยนแปลงย้อนกลับได้ — ที่นี่ในรูปแบบไทม์ไลน์'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: พื้นที่ที่ตัวชี้เคลื่อนที่และมีองค์ประกอบวางอยู่บนมัน — ถูกเลือก, ลากไปยังกริด, เชื่อมโยง, ถูกลบ, ทุกการเปลี่ยนแปลงที่ย้อนกลับและทำซ้ำอีกครั้ง เวทีจะวาดองค์ประกอบที่หน้าให้และไม่รู้ว่าพวกมันหมายถึงอะไร: แต่ละอันที่นี่คือหนึ่งในรูปทรงของมัน (stage-shape) — กล่องสำหรับขั้นตอน, วงกลมสำหรับเหตุการณ์, รูปเพชรสำหรับทางเลือก.'
   section:
@@ -140,7 +141,8 @@ th:
 
 de:
   page_title: Bühne
-  page_description: "Eine interaktive Fläche für Diagramme: Elemente auswählen, auf ein Raster ziehen, verbinden und entfernen, jede Änderung rückgängig zu machen — hier als Zeitleiste."
+  document_title: 'Interaktives Diagramm-Canvas — eine Zeitachse'
+  page_description: 'Eine interaktive Fläche für Diagramme: Elemente auswählen, auf ein Raster ziehen, verbinden und entfernen, jede Änderung rückgängig zu machen — hier als Zeitleiste.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: eine Fläche, auf der der Zeiger bewegt wird und Elemente darauf platziert sind — ausgewählt, auf ein Raster gezogen, verbunden, entfernt, jede Änderung rückgängig gemacht und wiederholt. Die Bühne zeichnet die Elemente, die die Seite ihr übergibt, und weiß nichts über deren Bedeutung: jedes hier ist eine ihrer Figuren (stage-shape) — ein Kästchen für einen Schritt, ein Kreis für ein Ereignis, ein Diamant für eine Auswahl.'
   section:
@@ -150,7 +152,8 @@ de:
 
 fi:
   page_title: Lava
-  page_description: "Interaktiivinen piirtoalusta kaavioille: elementtejä valitaan, vedetään ruudukolle, yhdistetään ja poistetaan, ja jokaisen muutoksen voi perua — tässä aikajanana."
+  document_title: 'Interaktiivinen kaaviotyötila — aikajana'
+  page_description: 'Interaktiivinen piirtoalusta kaavioille: elementtejä valitaan, vedetään ruudukolle, yhdistetään ja poistetaan, ja jokaisen muutoksen voi perua — tässä aikajanana.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: pinta, jota osoitin liikkuu ja elementit, jotka on asetettu sen päälle — valittu, raahattu ruudukkoon, linkitetty, poistettu, jokainen muutos kumottu ja tehty uudelleen. Lava piirtää elementit, jotka sivu sille antaa, eikä tiedä, mitä ne tarkoittavat: jokainen täällä on yksi sen kuvista (lava-muoto) — laatikko askeleelle, ympyrä tapahtumalle, timantti valinnalle.'
   section:
@@ -160,7 +163,8 @@ fi:
 
 ru:
   page_title: Этап
-  page_description: "Интерактивное полотно для диаграмм: элементы выбираются, перетаскиваются на сетку, связываются и удаляются, каждое изменение можно отменить — здесь в виде временной шкалы."
+  document_title: 'Интерактивная диаграмма — временная шкала'
+  page_description: 'Интерактивное полотно для диаграмм: элементы выбираются, перетаскиваются на сетку, связываются и удаляются, каждое изменение можно отменить — здесь в виде временной шкалы.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: поверхность, по которой перемещается указатель и на которой располагаются элементы — выбираемые, перетаскиваемые на сетку, связанные, удаляемые, каждое изменение отменяемое и повторяемое. Этап отображает элементы, которые передает ему страница, и ничего не знает о том, что они значат: каждый из них здесь — это одна из его фигур (stage-shape) — квадрат для шага, круг для события, ромб для выбора.'
   section:
@@ -170,7 +174,8 @@ ru:
 
 pl:
   page_title: Scena
-  page_description: "Interaktywna powierzchnia do diagramów: elementy zaznaczane, przeciągane na siatkę, łączone i usuwane, każdą zmianę można cofnąć — tutaj jako oś czasu."
+  document_title: 'Interaktywny diagram — oś czasu'
+  page_description: 'Interaktywna powierzchnia do diagramów: elementy zaznaczane, przeciągane na siatkę, łączone i usuwane, każdą zmianę można cofnąć — tutaj jako oś czasu.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: powierzchnia, po której porusza się wskaźnik i na której leżą elementy — wybierane, przeciągane na siatkę, łączone, usuwane, każda zmiana cofnieta i wykonana ponownie. Scena rysuje elementy, które jej przekazuje strona i nic nie wie o ich znaczeniu: każdy z nich to jedna z jej figur (stage-shape) — prostokąt dla kroku, okrąg dla wydarzenia, diament dla wyboru.'
   section:
@@ -180,7 +185,8 @@ pl:
 
 es:
   page_title: Escenario
-  page_description: "Un lienzo interactivo para diagramas: elementos que se seleccionan, se arrastran a una cuadrícula, se enlazan y se eliminan, con cada cambio reversible — aquí como línea de tiempo."
+  document_title: 'Lienzo de diagrama interactivo — una línea de tiempo'
+  page_description: 'Un lienzo interactivo para diagramas: elementos que se seleccionan, se arrastran a una cuadrícula, se enlazan y se eliminan, con cada cambio reversible — aquí como línea de tiempo.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: una superficie sobre la que se mueve el puntero y se colocan elementos — seleccionados, arrastrados a una cuadrícula, enlazados, eliminados, cada cambio deshecho y hecho de nuevo. El escenario dibuja los elementos que la página le entrega y no sabe nada de lo que significan: cada uno aquí es una de sus figuras (stage-shape) — una caja para un paso, un círculo para un evento, un rombo para una elección.'
   section:
@@ -190,7 +196,8 @@ es:
 
 it:
   page_title: Fase
-  page_description: "Una superficie interattiva per i diagrammi: elementi selezionati, trascinati su una griglia, collegati e rimossi, ogni modifica annullabile — qui come linea del tempo."
+  document_title: 'Canvas del diagramma interattivo — una timeline'
+  page_description: 'Una superficie interattiva per i diagrammi: elementi selezionati, trascinati su una griglia, collegati e rimossi, ogni modifica annullabile — qui come linea del tempo.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: una superficie su cui si muove il puntatore e gli elementi vi sono posizionati — selezionati, trascinati su una griglia, collegati, rimossi, ogni cambiamento annullato e rifatto. La fase disegna gli elementi che la pagina le fornisce e non sa nulla del loro significato: ciascuno qui è una delle sue figure (stage-shape) — una casella per un passaggio, un cerchio per un evento, un rombo per una scelta.'
   section:
@@ -200,7 +207,8 @@ it:
 
 pt_BR:
   page_title: Palco
-  page_description: "Uma tela interativa para diagramas: elementos selecionados, arrastados para uma grade, ligados e removidos, com cada alteração reversível — aqui como linha do tempo."
+  document_title: 'Canvas de diagrama interativo — uma linha do tempo'
+  page_description: 'Uma tela interativa para diagramas: elementos selecionados, arrastados para uma grade, ligados e removidos, com cada alteração reversível — aqui como linha do tempo.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: uma superfície onde o ponteiro se move e elementos são dispostos — escolhidos, arrastados para uma grade, vinculados, removidos, cada mudança desfeita e refeita. O palco desenha os elementos que a página lhe entrega e não sabe nada sobre o que eles significam: cada um aqui é uma de suas figuras (stage-shape) — uma caixa para um passo, um círculo para um evento, um losango para uma escolha.'
   section:
@@ -210,7 +218,8 @@ pt_BR:
 
 tr:
   page_title: Aşama
-  page_description: "Diyagramlar için etkileşimli bir tuval: öğeler seçilir, ızgaraya sürüklenir, bağlanır ve silinir, her değişiklik geri alınabilir — burada bir zaman çizelgesi olarak."
+  document_title: 'Etkileşimli diyagram tuvali — bir zaman çizelgesi'
+  page_description: 'Diyagramlar için etkileşimli bir tuval: öğeler seçilir, ızgaraya sürüklenir, bağlanır ve silinir, her değişiklik geri alınabilir — burada bir zaman çizelgesi olarak.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: işaretçinin hareket ettiği ve üzerinde unsurların yer aldığı bir yüzey — alınan, bir ızgaraya sürüklenen, bağlanan, kaldırılan, her değişiklik geri alınan ve tekrar yapılan. Aşama, sayfanın kendisine verdiği unsurları çizer ve onların ne anlama geldiğini bilmez: burada her biri kendi figürlerinden biridir (stage-shape) — bir adım için bir kutu, bir olay için bir daire, bir seçim için bir elmas.'
   section:
@@ -220,7 +229,8 @@ tr:
 
 vi:
   page_title: 'Sân khấu'
-  page_description: "Một khung vẽ tương tác cho sơ đồ: chọn, kéo phần tử lên lưới, liên kết và xóa, mọi thay đổi đều hoàn tác được — ở đây dưới dạng dòng thời gian."
+  document_title: 'Canvas sơ đồ tương tác — một dòng thời gian'
+  page_description: 'Một khung vẽ tương tác cho sơ đồ: chọn, kéo phần tử lên lưới, liên kết và xóa, mọi thay đổi đều hoàn tác được — ở đây dưới dạng dòng thời gian.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: một bề mặt mà con trỏ di chuyển và các phần tử được đặt lên đó — được chọn, kéo lên lưới, liên kết, xóa, mọi thay đổi đều có thể hoàn tác và làm lại. Sân khấu vẽ các phần tử mà trang cung cấp và không biết chúng có ý nghĩa gì: mỗi phần tử ở đây là một trong các hình dạng của nó (hình dạng sân khấu) — một hộp cho một bước, một hình tròn cho một sự kiện, một hình thoi cho một lựa chọn.'
   section:
@@ -230,7 +240,8 @@ vi:
 
 id:
   page_title: Panggung
-  page_description: "Kanvas interaktif untuk diagram: elemen dipilih, diseret ke kisi, dihubungkan, dan dihapus, setiap perubahan bisa dibatalkan — di sini sebagai linimasa."
+  document_title: 'Kanvas diagram interaktif — sebuah garis waktu'
+  page_description: 'Kanvas interaktif untuk diagram: elemen dipilih, diseret ke kisi, dihubungkan, dan dihapus, setiap perubahan bisa dibatalkan — di sini sebagai linimasa.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: sebuah permukaan tempat penunjuk bergerak dan elemen-elemen diletakkan di atasnya — dipilih, diseret ke grid, terhubung, dihapus, setiap perubahan dibatalkan dan dilakukan lagi. Panggung menggambar elemen-elemen yang diserahkan halaman kepadanya dan tidak tahu apa artinya: masing-masing di sini adalah salah satu dari bentuknya (stage-shape) — sebuah kotak untuk langkah, sebuah lingkaran untuk acara, sebuah berlian untuk pilihan.'
   section:
@@ -240,7 +251,8 @@ id:
 
 nl:
   page_title: Stage
-  page_description: "Een interactief canvas voor diagrammen: elementen selecteren, op een raster slepen, verbinden en verwijderen, elke wijziging ongedaan te maken — hier als tijdlijn."
+  document_title: 'Interactief diagram canvas — een tijdlijn'
+  page_description: 'Een interactief canvas voor diagrammen: elementen selecteren, op een raster slepen, verbinden en verwijderen, elke wijziging ongedaan te maken — hier als tijdlijn.'
   page_icon: 'ph:bold/flow-arrow'
   intro: 'symfony-stage: een oppervlak waar de aanwijzer overheen beweegt en elementen op zijn gelegd — geselecteerd, gesleept naar een raster, gekoppeld, verwijderd, elke wijziging ongedaan gemaakt en opnieuw gedaan. Het podium tekent de elementen die de pagina aanlevert en weet niets van wat ze betekenen: elk hiervan is een van zijn figuren (stage-shape) — een doos voor een stap, een cirkel voor een gebeurtenis, een diamant voor een keuze.'
   section:
