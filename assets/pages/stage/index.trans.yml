@@ -1,5 +1,6 @@
 en:
   page_title: Stage
+  document_title: "Interactive diagram canvas — a timeline"
   page_description: "An interactive canvas for diagrams: elements picked, dragged onto a grid, linked and removed, with every change undoable — here as a timeline."
   page_icon: ph:bold/flow-arrow
   intro: >-

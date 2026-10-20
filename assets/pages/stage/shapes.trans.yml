@@ -1,5 +1,6 @@
 en:
   page_title: Shapes
+  document_title: "Diagram shapes for steps, events and choices"
   page_description: "The figures diagrams are drawn with — boxes for steps, circles for events, diamonds for choices — styled once on the design system's tokens."
   page_icon: ph:bold/shapes
   intro: >-
