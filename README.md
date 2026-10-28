@@ -1,6 +1,6 @@
 # symfony-stage-demo
 
-Version: 2.0.11
+Version: 2.0.12
 
 Demo pages of symfony-stage
 
