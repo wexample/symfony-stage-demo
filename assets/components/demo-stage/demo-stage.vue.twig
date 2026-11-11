@@ -2,6 +2,7 @@
 
 {%- block vue_require -%}
     {{- vue_require(render_pass, '@WexampleSymfonyStageBundle/components/stage') -}}
+    {{- vue_require(render_pass, '@WexampleSymfonyStageBundle/components/stage-links') -}}
 {%- endblock -%}
 
 {%- block vue_body -%}
@@ -23,11 +24,13 @@
                     ref="stage"
                     :axis="axis"
                     :elements="elements"
-                    :links="links"
                     @update:elements="onElements"
-                    @update:links="(value) => links = value"
                     @update:selection="(value) => selection = value"
             >
+                {#- The links between the steps: a layer of the stage. -#}
+                <template #layers>
+                    <stage-links ref="links" :links="links" @update:links="(value) => links = value"></stage-links>
+                </template>
                 {#- The figures of the stage: a box for a step, a circle for an
                     event, a diamond for a choice, toned as the page says. -#}
                 <template #element="{ element }">

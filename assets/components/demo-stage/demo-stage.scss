@@ -2,6 +2,7 @@
 @use '@wexample/symfony-design-system/css/shapes/toolbar';
 @use '@wexample/symfony-design-system/css/shapes/status-bar';
 @use '@wexample/symfony-stage/components/stage/stage';
+@use '@wexample/symfony-stage/components/stage-links/stage-links';
 
 // A card holding the stage: its bar above, its status under, the stage the
 // height that is left.

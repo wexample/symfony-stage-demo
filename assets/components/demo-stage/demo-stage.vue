@@ -1,5 +1,6 @@
 <script>
 import Stage from '@wexample/symfony-stage/components/stage/stage.vue';
+import StageLinks from '@wexample/symfony-stage/components/stage-links/stage-links.vue';
 
 // A stage as a page drives it: its elements and links held here, a bar of the
 // design system above it acting on it, a status bar under it saying what is
@@ -9,7 +10,8 @@ export default {
   template: '#vue-template-wexample-symfony-stage-demo-bundle-components-demo-stage-demo-stage',
 
   components: {
-    Stage
+    Stage,
+    StageLinks
   },
 
   props: {
@@ -80,7 +82,7 @@ export default {
       });
 
       if (after) {
-        stage.link(after.id, element.id);
+        this.$refs.links.link(after.id, element.id);
       }
     },
 
